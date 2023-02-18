@@ -1,0 +1,20 @@
+state={
+	id=910
+	name="STATE_910"
+	manpower = 85237
+	state_category = pastoral
+	history = {
+		owner = LAC
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = LAC
+	}
+	provinces={
+		1752 1836 1870 3719 4759 4772 4880 7862 10569 10595 10685 10709 12620 12667 12685 
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

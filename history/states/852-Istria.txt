@@ -1,0 +1,31 @@
+state = {
+	id = 852
+	name = "STATE_852"
+	manpower = 125850
+	state_category = town
+	history = {
+		owner = RME
+		victory_points = { 
+			11564 1 
+		}
+		buildings = {
+			infrastructure = 3
+			dockyard = 1
+			11564 = {
+				naval_base = 2
+			}
+		}
+		add_core_of = ITA
+		add_core_of = YUG
+		add_core_of = CRO
+		add_core_of = LBV
+		add_core_of = RME
+		set_province_name = { id = 11564 name = VICTORY_POINTS_11564_ITA }
+		controller = RME
+	}
+	provinces = {
+		11564 11735
+	}
+	local_supplies = 0.0
+
+}

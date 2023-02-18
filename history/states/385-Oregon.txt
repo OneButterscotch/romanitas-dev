@@ -1,0 +1,32 @@
+
+state={
+	id=385
+	name="STATE_385"
+
+	history={
+		owner = NIO
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 6
+			12211 = {
+				naval_base = 3
+
+			}
+
+		}
+		add_core_of = NIO
+		victory_points = {
+			3513 1 
+		}
+
+	}
+
+	provinces={
+		505 528 610 677 710 766 768 781 1414 3471 3513 3588 3644 4274 4328 4331 4347 4380 4607 4736 4826 6482 6665 6681 6745 6757 6772 7398 7721 7865 9697 9713 9730 10151 10159 10183 10305 10422 10625 11495 11658 11698 11733 12134 12183 12211 12281 12553 
+	}
+	manpower=953785
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

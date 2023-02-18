@@ -1,0 +1,34 @@
+
+state={
+	id=480
+	name="STATE_480"
+	resources={
+		oil=8.000
+	}
+
+	history={
+		owner = MXA
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1
+
+		}
+		add_core_of = MXA
+		victory_points = {
+			12835 10 
+		}
+		victory_points = {
+			10769 5 
+		}
+
+	}
+
+	provinces={
+		1927 2019 2042 2060 2104 4884 5061 6785 6798 6987 7973 8064 10738 10746 10769 10800 12369 12728 12782 12811 12835 
+	}
+	manpower=827826
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

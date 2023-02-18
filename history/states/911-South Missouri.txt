@@ -1,0 +1,20 @@
+state={
+	id=911
+	name="STATE_911"
+	manpower = 85237
+	state_category = pastoral
+	history = {
+		owner = ARC
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = ARC
+	}
+	provinces={
+		1441 1534 1564 1621 4449 4540 4569 10370 10717 12346 12361 12463 
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

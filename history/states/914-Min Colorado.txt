@@ -1,0 +1,21 @@
+state={
+	id=914
+	name="STATE_914"
+	history={
+		owner = ANA
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		add_core_of = ANA
+
+	}
+	provinces={
+		868 1658 1756 4668 4865 6887 7684 7764 10535 12561 12633 
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

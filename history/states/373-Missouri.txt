@@ -1,0 +1,38 @@
+
+state={
+	id=373
+	name="STATE_373"
+	resources={
+		aluminium=12.000
+	}
+
+	history={
+		owner = LAC
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 5
+
+		}
+		add_core_of = USA
+		add_core_of = LAC
+		victory_points = {
+			4569 10 
+		}
+		victory_points = {
+			10717 10 
+		}
+		victory_points = {
+			10370 1 
+		}
+		controller = LAC
+
+	}
+
+	provinces={
+		1523 7449 7607 10333 10391 10516 
+	}
+	manpower=3629365
+	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=7.000
+}

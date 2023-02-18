@@ -1,0 +1,16 @@
+version = "Alpha"
+tags = {
+	"Alternative History"
+	"Events"
+	"Gameplay"
+	"Graphics"
+	"Ideologies"
+	"National Focuses"
+	"Military"
+	"Map"
+	"Technologies"
+}
+replace_path = "history/states "
+name = "Romanitas: Developer Version"
+supported_version = "1.12.*"
+picture = "thumbnail.png"

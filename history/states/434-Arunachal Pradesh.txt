@@ -1,0 +1,21 @@
+state = {
+	id = 434
+	name = "STATE_434"
+	manpower = 200000
+	state_category = wasteland
+	resources = {
+	}
+	history = {
+		owner = SIN
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = SIN
+		controller = SIN
+	}
+	provinces = {
+		1116 1996 10810 12322 12730 
+	}
+	local_supplies = 3.0
+
+}

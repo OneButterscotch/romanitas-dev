@@ -1,0 +1,20 @@
+state={
+	id=912
+	name="STATE_912"
+	manpower = 85237
+	state_category = pastoral
+	history = {
+		owner = ALQ
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = ALQ
+	}
+	provinces={
+		3917 6892 9758 9786 
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

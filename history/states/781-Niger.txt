@@ -1,0 +1,23 @@
+state = {
+	id = 781
+	name = "STATE_781"
+	manpower = 543817
+	state_category = pastoral
+	history = {
+		owner = MAS
+		add_core_of = NGR
+		add_core_of = MAS
+		victory_points = {
+			2056 1
+		}
+		buildings = {
+			infrastructure = 2
+		}
+		controller = MAS
+	}
+	provinces = {
+		1975 2056 12707
+	}
+	local_supplies = 1.0
+
+}

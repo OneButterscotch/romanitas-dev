@@ -1,0 +1,59 @@
+focus_tree = {
+	id = rme
+	continuous_focus_position = { x = -40 y = 1050 } 
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = RME
+		}
+	}
+	#INCIPIT FINEIS
+	focus = {
+		id = RME_incipit_fineis
+		icon = GFX_focus_GRE_reviving_the_double_headed_eagle
+		x = 4
+		y = 0
+		cost = 2
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+	}
+
+	#Civil War
+	focus = {
+		id = RME_civil_war
+		icon = GFX_goal_unknown
+		x = 4
+		y = 1
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = RME_incipit_fineis  }
+	}
+
+	#Independence Movements
+	focus = {
+		id = RME_independence_movements
+		icon = GFX_goal_unknown
+		x = 2
+		y = 1
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = RME_incipit_fineis  }
+	}
+
+	#Slave revolt
+	focus = {
+		id = RME_slave_revolt
+		icon = GFX_goal_unknown
+		x = 6
+		y = 1
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = RME_incipit_fineis  }
+	}
+
+}

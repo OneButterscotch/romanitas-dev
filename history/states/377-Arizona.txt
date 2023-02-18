@@ -1,0 +1,37 @@
+
+state={
+	id=377
+	name="STATE_377"
+	resources={
+		steel=20.000
+		oil=5.000
+		aluminium=8.000
+	}
+
+	history={
+		owner = ANA
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 2
+			1562 = {
+				naval_base = 10
+
+			}
+
+		}
+		add_core_of = ANA
+		victory_points = {
+			853 3 
+		}
+
+	}
+
+	provinces={
+		823 853 1562 1793 3834 4657 4727 4799 7517 7747 7821 7986 8115 10783 11757 11795 11814 12303 12374 12765 12833 
+	}
+	manpower=435572
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=8.000
+}
