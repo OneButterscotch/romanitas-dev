@@ -43,6 +43,10 @@
  CAL: "Calusa"
  CAL_DEF: "Calusa"
  CAL_ADJ: "Calusan"
+ #Aegyptus
+ EGY: "Aegyptus"
+ EGY_DEF: "Aegyptus"
+ EGY_ADJ: "Aegyptian"
  #Ethiopia
  ETH: "Ethiopia"
  ETH_DEF: "Ethiopia"
