@@ -4,15 +4,14 @@ state = {
 	manpower = 811486
 	state_category = wasteland
 	history = {
-		owner = RME
-		add_core_of = ALG
+		owner = MAU
+		add_core_of = MAU
 		victory_points = {
 			12034 1 
 		}
 		buildings = {
 			infrastructure = 1
 		}
-		controller = RME
 	}
 	provinces = {
 		1126 1128 1141 1967 3991 4018 4150 4970 5053 7008 7033 7040 7149 9943 9960 10045 10059 12018 12020 12034 12888 13074 
