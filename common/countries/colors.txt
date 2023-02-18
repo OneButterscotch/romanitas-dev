@@ -958,3 +958,7 @@ VNT = {
 	color = rgb { 171 0 0 }
 	color_ui = rgb { 171 0 0 }
 }
+CYR = {
+	color = rgb { 157 11 44 }
+	color_ui = rgb { 157 11 44 }
+}

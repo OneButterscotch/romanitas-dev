@@ -34,3 +34,4 @@ IND = "countries/Asia.txt" #India
 SCY = "countries/EastEur.txt" #Scythia
 BAC = "countries/MidEast.txt" #Bactria
 EGY = "countries/MidEast.txt" #Aegyptus
+CYR = "countries/MidEast.txt" #Cyrenaica

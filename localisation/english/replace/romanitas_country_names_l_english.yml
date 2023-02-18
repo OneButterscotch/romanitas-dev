@@ -43,6 +43,10 @@
  CAL: "Calusa"
  CAL_DEF: "Calusa"
  CAL_ADJ: "Calusan"
+ #Cyrenaica
+ CYR: "Cyrenaica"
+ CYR_DEF: "Cyrenaica"
+ CYR_ADJ: "Cyrenaican"
  #Aegyptus
  EGY: "Aegyptus"
  EGY_DEF: "Aegyptus"
