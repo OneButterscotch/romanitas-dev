@@ -7,10 +7,7 @@ state = {
 		steel = 23
 	}
 	history = {
-		owner = RME
-		add_core_of = MOR
-		add_core_of = RIF
-		add_core_of = RME
+		owner = MAU
 		victory_points = {
 			9945 3
 		}
@@ -30,7 +27,6 @@ state = {
 				naval_base = 3
 			}
 		}
-		controller = RME
 	}
 	provinces = {
 		4199 7215 9945 10113 12087 12100 

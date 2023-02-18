@@ -4,15 +4,14 @@ state = {
 	manpower = 150600
 	state_category = small_island
 	history = {
-		owner = MAS
+		owner = MAU
 		buildings = {
 			infrastructure = 2
 			13014 ={
 				naval_base = 1
 			}
 		}
-		add_core_of = MAS
-		controller = MAS
+		add_core_of = MAU
 	}
 	provinces = {
 		13014 

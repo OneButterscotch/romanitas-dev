@@ -7,8 +7,8 @@ state = {
 	manpower = 3197719
 	state_category = rural
 	history = {
-		owner = RME
-		add_core_of = MOR
+		owner = MAU
+		add_core_of = MAU
 		victory_points = {
 			7069 10 
 		}
@@ -20,7 +20,6 @@ state = {
 				naval_base = 4
 			}
 		}
-		controller = RME
 	}
 	provinces = {
 		989 1079 1111 1194 4084 4097 4139 7069 7100 7116 7173 10013 10023 10070 11943 11987 12042 
