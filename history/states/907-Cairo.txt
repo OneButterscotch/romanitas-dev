@@ -4,7 +4,7 @@ state = {
 	manpower = 6454865
 	state_category = town
 	history = {
-		owner = RME
+		owner = EGY
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -22,8 +22,6 @@ state = {
 			1068 3 
 		}
 		add_core_of = EGY
-		add_core_of = RME
-		controller = RME
 	}
 	provinces = {
 		992 1068 3996 4055 4143 7011 7117 7188 10005 10031 12004 

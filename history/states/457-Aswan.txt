@@ -4,7 +4,7 @@ state = {
 	manpower = 2194
 	state_category = wasteland
 	history = {
-		owner = RME
+		owner = EGY
 		buildings = {
 			infrastructure = 1
 		}
@@ -12,7 +12,6 @@ state = {
 			12002 1
 		}
 		add_core_of = EGY
-		controller = RME
 	}
 	provinces = {
 		1080 4068 4910 5069 7156 9957 10126 12002 12889 
