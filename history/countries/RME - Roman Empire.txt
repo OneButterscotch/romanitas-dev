@@ -35,6 +35,7 @@ add_to_faction = SAR
 add_to_faction = IND
 add_to_faction = SCY
 add_to_faction = BAC
+add_to_faction = EGY
 
 
 add_ideas = {
