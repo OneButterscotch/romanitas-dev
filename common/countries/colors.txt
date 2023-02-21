@@ -326,10 +326,7 @@ LBA = {
 	color_ui = rgb { 200 180 90 }
 }
 
-EGY = {
-	color = rgb { 182 0 0 }
-	color_ui = rgb { 182 0 0 }
-}
+
 
 PAL = {
 	color = rgb { 170  125  80 }
@@ -898,10 +895,6 @@ NUB = {
 	color = rgb { 175 39 0 }
 	color_ui = rgb { 175 39 0 }
 }
-ETH = {
-	color = rgb { 166 37 35 }
-	color_ui = rgb { 166 37 35 }
-}
 AFD = {
 	color = rgb { 200 181 0 }
 	color_ui = rgb { 200 181 0 }
@@ -942,10 +935,6 @@ IND = {
 	color = rgb { 135 33 0 }
 	color_ui = rgb { 135 33 0 }
 }
-IND = {
-	color = rgb { 0 0 0 }
-	color_ui = rgb { 0 0 0 }
-}
 SCY = {
 	color = rgb { 148 0 0 }
 	color_ui = rgb { 148 0 0 }
@@ -961,4 +950,12 @@ VNT = {
 CYR = {
 	color = rgb { 157 11 44 }
 	color_ui = rgb { 157 11 44 }
+}
+ETH = {
+	color = rgb { 166 37 35 }
+	color_ui = rgb { 166 37 35 }
+}
+EGY = {
+	color = rgb { 182 0 0 }
+	color_ui = rgb { 182 0 0 }
 }
