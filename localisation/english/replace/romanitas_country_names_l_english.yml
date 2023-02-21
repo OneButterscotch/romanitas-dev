@@ -151,3 +151,19 @@
  RUT: "Ruthenia"
  RUT_DEF: "Ruthenia"
  RUT_ADJ: "Ruthenian"
+ #Britannia
+ BRT: "Britannia"
+ BRT_DEF: "Britannia"
+ BRT_ADJ: "Britannic"
+ #Hibernia
+ HIB: "Hibernia"
+ HIB_DEF: "Hibernia"
+ HIB_ADJ: "Hibernian"
+ #Caledonia
+ CLD: "Caledonia"
+ CLD_DEF: "Caledonia"
+ CLD_ADJ: "Caledonian"
+ #Rhateia-Norica
+ RHN: "Rhateia-Norica"
+ RHN_DEF: "Rhateia-Norica"
+ RHN_ADJ: "Rhateia-Norican"
