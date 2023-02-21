@@ -8,7 +8,7 @@ state = {
 	}
 	state_category = city
 	history = {
-		owner = RME
+		owner = HIB
 		victory_points = {
 			285 1 
 		}
@@ -27,9 +27,7 @@ state = {
 				naval_base = 6
 			}
 		}
-		add_core_of = IRE
-		add_core_of = RME
-		controller = RME
+		add_core_of = HIB
 	}
 	provinces = {
 		285 303 369 3342 3359 7377 11293 11303 

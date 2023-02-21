@@ -4,7 +4,7 @@ state = {
 	manpower = 941400
 	state_category = town
 	history = {
-		owner = RME
+		owner = HIB
 		buildings = {
 			infrastructure = 3 
 			industrial_complex = 3
@@ -15,9 +15,7 @@ state = {
 		victory_points = {
 			6313 1 
 		}
-		add_core_of = IRE
-		add_core_of = RME
-		controller = RME
+		add_core_of = HIB
 	}
 	provinces = {
 		6289 6313 6405 7394 9284 9310 9405 11237 11267 11334 
