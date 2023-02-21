@@ -167,3 +167,139 @@
  RHN: "Rhateia-Norica"
  RHN_DEF: "Rhateia-Norica"
  RHN_ADJ: "Rhateia-Norican"
+ #Lechia
+ LEC: "Lechia"
+ LEC_DEF: "Lechia"
+ LEC_ADJ: "Lechian"
+ #Illyria
+ ILY: "Illyria"
+ ILY_DEF: "Illyria"
+ ILY_ADJ: "Illyrian"
+ #Gothia
+ GOT: "Gothia"
+ GOT_DEF: "Gothia"
+ GOT_ADJ: "Gothian"
+ #Dannia
+ DAN: "Dannia"
+ DAN_DEF: "Dannia"
+ DAN_ADJ: "Dannian"
+ #Hispania
+ HSP: "Hispania"
+ HSP_DEF: "Hispania"
+ HSP_ADJ: "Hispanic"
+ #Baetica
+ HBA: "Baetica"
+ HBA_DEF: "Baetica"
+ HBA_ADJ: "Baetican"
+ #Lusitania
+ LUS: "Lusitania"
+ LUS_DEF: "Lusitania"
+ LUS_ADJ: "Lusitanian"
+ #Gallia
+ GAU: "Gallia"
+ GAU_DEF: "Gallia"
+ GAU_ADJ: "Gallic"
+ #Germania
+ GRM: "Germania"
+ GRM_DEF: "Germania"
+ GRM_ADJ: "Germanic"
+ #Asia-Cappodacia
+ ASI: "Asia-Cappodacia"
+ ASI_DEF: "Asia-Cappodacia"
+ ASI_ADJ: "Asia-Cappodacian"
+ #Mesopotamia
+ MSP: "Mesopotamia"
+ MSP_DEF: "Mesopotamia"
+ MSP_ADJ: "Mesopotamian"
+ #Graecia
+ GRA: "Graecia"
+ GRA_DEF: "Graecia"
+ GRA_ADJ: "Graecian"
+ #Pannonia
+ PNN: "Pannonia"
+ PNN_DEF: "Pannonia"
+ PNN_ADJ: "Pannonian"
+ #Dacia
+ DAC: "Dacia"
+ DAC_DEF: "Dacia"
+ DAC_ADJ: "Dacian"
+ #Moesia
+ MOE: "Moesia"
+ MOE_DEF: "Moesia"
+ MOE_ADJ: "Moesian"
+ #Gallia Transalpina
+ GTR: "Gallia Transalpina"
+ GTR_DEF: "Gallia Transalpina"
+ GTR_ADJ: "Gallia Transalpine"
+ #Gallia Lugdenensis
+ LUG: "Gallia Lugdenensis"
+ LUG_DEF: "Gallia Lugdenensis"
+ LUG_ADJ: "Gallia Lugdenensic"
+ #Belgica
+ BLG: "Belgica"
+ BLG_DEF: "Belgica"
+ BLG_ADJ: "Belgica"
+ #Thracia
+ THR: "Thracia"
+ THR_DEF: "Thracia"
+ THR_ADJ: "Thracian"
+ #Byzantion
+ BYZ: "Byzantion"
+ BYZ_DEF: "Byzantion"
+ BYZ_ADJ: "Byzantion"
+ #Epirus
+ EPY: "Epirus"
+ EPY_DEF: "Epirus"
+ EPY_ADJ: "Epirote"
+ #Batavia
+ BAT: "Batavia"
+ BAT_DEF: "Batavia"
+ BAT_ADJ: "Batavian"
+ #Bohemia
+ BOH: "Bohemia"
+ BOH_DEF: "Bohemia"
+ BOH_ADJ: "Bohemian"
+ #Germania Inferior
+ GIN: "Germania Inferior"
+ GIN_DEF: "Germania Inferior"
+ GIN_ADJ: "Germanic Inferior"
+ #Shin Daichi
+ JTN: "Shin Daichi"
+ JTN_DEF: "Shin Daichi"
+ JTN_ADJ: "Shin Daichin"
+ #Cambria
+ CMB: "Cambria"
+ CMB_DEF: "Cambria"
+ CMB_ADJ: "Cambrian"
+ #Indochina
+ IDC: "Indochina"
+ IDC_DEF: "Indochina"
+ IDC_ADJ: "Indochinese"
+ #Ingria
+ ING: "Ingria"
+ ING_DEF: "Ingria"
+ ING_ADJ: "Ingric"
+ #Taurica
+ TAU: "Taurica"
+ TAU_DEF: "Taurica"
+ TAU_ADJ: "Taurican"
+ #Venedia
+ VND: "Venedia"
+ VND_DEF: "Venedia"
+ VND_ADJ: "Venedian"
+ #Formosa
+ FOR: "Formosa"
+ FOR_DEF: "Formasa"
+ FOR_ADJ: "Formosan"
+ #Kumul Khanate
+ KUM: "Kumul Khanate"
+ KUM_DEF: "Kumul Khanate"
+ KUM_ADJ: "Kumul Khanate"
+ #Sichuan
+ SIC: "Sichuan"
+ SIC_DEF: "Sichuan"
+ SIC_ADJ: "Sichuanese"
+ #Okinawa
+ RYU: "Okinawa"
+ RYU_DEF: "Okinawa"
+ RYU_ADJ: "Okinawan"
