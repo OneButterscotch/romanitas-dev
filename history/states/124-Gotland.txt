@@ -4,16 +4,14 @@ state = {
 	manpower = 56988
 	state_category = small_island
 	history = {
-		owner = RME
-		add_core_of = SWE
-		add_core_of = RME
+		owner = GOT
+		add_core_of = GOT
 		buildings = {
 			infrastructure = 3 
 			408 = {
 				naval_base = 1
 			}
 		}
-		controller = RME
 	}
 	provinces = {
 		408 6258

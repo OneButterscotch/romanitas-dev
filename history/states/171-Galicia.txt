@@ -4,10 +4,8 @@ state = {
 	manpower = 2295085
 	state_category = city
 	history = {
-		owner = RME
-		add_core_of = GLC
-		add_core_of = SPR
-		add_core_of = RME
+		owner = HSP
+		add_core_of = HSP
 		victory_points = {
 			758 5
 		}
@@ -23,7 +21,6 @@ state = {
 				naval_base = 6
 			}
 		}
-		controller = RME
 	}
 	provinces = {
 		729 758 3761 6734 6764 6955 9686 9689 11675 11677 11692 11710 11840 

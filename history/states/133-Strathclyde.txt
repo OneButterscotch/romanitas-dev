@@ -7,10 +7,8 @@ state = {
 		steel = 21
 	}
 	history = {
-		add_core_of = SCO
-		add_core_of = ENG
-		add_core_of = RME
-		owner = RME
+		add_core_of = CLD
+		owner = CLD
 		victory_points = {
 			3273 15
 		}
@@ -28,7 +26,6 @@ state = {
 			}
 
 		}
-		controller = RME
 	}
 	provinces = {
 		3273 6320 6350 6385 6395 9237 9350 11218 

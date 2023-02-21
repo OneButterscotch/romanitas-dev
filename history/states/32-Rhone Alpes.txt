@@ -8,17 +8,14 @@ state = {
 		aluminium = 30
 	}
 	history = {
-		owner = RME
+		owner = GTR
 		buildings = {
 			infrastructure = 2
 		}
 		victory_points = {
 			3768 1 
 		}
-		add_core_of = OCC
-		add_core_of = FRA
-		add_core_of = RME
-		controller = RME
+		add_core_of = GTR
 	}
 	provinces = {
 		762 780 3589 3768 6784 11713 

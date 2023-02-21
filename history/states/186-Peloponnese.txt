@@ -13,7 +13,7 @@ state = {
 		victory_points = {
 			11965 1
 		}
-		owner = RME
+		owner = GRA
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1
@@ -27,9 +27,7 @@ state = {
 			}
 
 		}
-		add_core_of = GRE
-		add_core_of = RME
-		controller = RME
+		add_core_of = GRA
 	}
 	provinces = {
 		1173 4078 4178 4193 7096 7211 11965 

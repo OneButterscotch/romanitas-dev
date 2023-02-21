@@ -11,14 +11,12 @@ state = {
 		victory_points = {
 			11420 5
 		}
-		owner = RME
-		add_core_of = FRA
-		add_core_of = RME
+		owner = GAU
+		add_core_of = GAU
 		buildings = {
 			infrastructure = 4 
 			industrial_complex = 1
 		}
-		controller = RME
 	}
 	provinces = {
 		454 3402 3447 6585 9561 11420 11549

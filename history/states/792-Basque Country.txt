@@ -5,13 +5,11 @@ state = {
 		steel = 8.000
 	}
 	history = {
-		owner = RME
+		owner = HSP
 		victory_points = {
 			740 10
 		}
-		add_core_of = NAV
-		add_core_of = SPR
-		add_core_of = RME
+		add_core_of = HSP
 		buildings = {
 			infrastructure = 3 
 			industrial_complex = 1
@@ -21,7 +19,6 @@ state = {
 			}
 			air_base = 1
 		}
-		controller = RME
 	}
 	provinces = {
 		740 3735 6756 13233 

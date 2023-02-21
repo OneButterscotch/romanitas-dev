@@ -8,10 +8,8 @@ state = {
 		aluminium = 3
 	}
 	history = {
-		add_core_of = SCO
-		add_core_of = ENG
-		add_core_of = RME
-		owner = RME
+		add_core_of = CLD
+		owner = CLD
 		victory_points = {
 			200 5 
 		}
@@ -22,7 +20,6 @@ state = {
 			infrastructure = 3 
 			dockyard = 2
 		}
-		controller = RME
 	}
 	provinces = {
 		200 3150 9161 11055 11136 11207 11306 

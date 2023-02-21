@@ -8,7 +8,7 @@ state = {
 	}
 	state_category = metropolis
 	history = {
-		owner = RME
+		owner = BLG
 		victory_points = { 11435 1 }
 		victory_points = { 11531 5 }
 		buildings = {
@@ -16,9 +16,7 @@ state = {
 			industrial_complex = 3
 
 		}
-		add_core_of = GER
-		add_core_of = RME
-		controller = RME
+		add_core_of = BLG
 	}
 	provinces = {
 		563 3423 3558 9575 11435 11470 11494 11531 11547 

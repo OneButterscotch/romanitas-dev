@@ -5,7 +5,7 @@ state = {
 		tungsten = 50.000
 	}
 	history = {
-		owner = RME
+		owner = LUS
 		victory_points = {
 			11805 20 
 		}
@@ -22,9 +22,7 @@ state = {
 				naval_base = 8
 			}
 		}
-		add_core_of = POR
-		add_core_of = RME
-		controller = RME
+		add_core_of = LUS
 	}
 	provinces = {
 		799 3798 3861 6924 11805 

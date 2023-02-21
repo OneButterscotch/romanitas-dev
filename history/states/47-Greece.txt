@@ -10,7 +10,7 @@ state = {
 	}
 	state_category = city
 	history = {
-		owner = RME
+		owner = GRA
 		victory_points = {
 			4109 20 
 		}
@@ -34,9 +34,7 @@ state = {
 			}
 
 		}
-		add_core_of = GRE
-		add_core_of = RME
-		controller = RME
+		add_core_of = GRA
 	}
 	provinces = {
 		863 976 1109 3864 3973 3988 4109 6930 7127 

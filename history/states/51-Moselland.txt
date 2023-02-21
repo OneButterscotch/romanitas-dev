@@ -7,7 +7,7 @@ state = {
 	}
 	state_category = metropolis
 	history = {
-		owner = RME
+		owner = BLG
 		victory_points = {
 			6469 10 
 		}
@@ -21,8 +21,7 @@ state = {
 			air_base = 3
 
 		}
-		add_core_of = RME
-		controller = RME
+		add_core_of = BLG
 	}
 	provinces = {
 		529 587 3444 3512 3547 6469 6570 9482 9522 

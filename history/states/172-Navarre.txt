@@ -2,17 +2,15 @@ state = {
 	id = 172
 	name = "STATE_172"
 	history = {
-		owner = RME
-		add_core_of = NAV
-		add_core_of = SPR
-		add_core_of = RME
+		owner = HSP
+		add_core_of = HSP
 		victory_points = {
 			3933 1
 		}
 		buildings = {
 			infrastructure = 3 
 		}
-		controller = RME
+		controller = HSP
 	}
 	provinces = {
 		932 3737 3931 3933 9857 

@@ -10,16 +10,13 @@ state = {
 		victory_points = {
 			11905 1 
 		}
-		owner = RME
+		owner = MAC
 		buildings = {
 			infrastructure = 1
 			arms_factory = 1
 
 		}
-		add_core_of = GRE
-		add_core_of = RME
-		add_claim_by = BUL
-		controller = RME
+		add_core_of = MAC
 	}
 	provinces = {
 		9791 9930 11774 11905 
