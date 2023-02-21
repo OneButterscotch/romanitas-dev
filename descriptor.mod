@@ -10,7 +10,7 @@ tags = {
 	"Map"
 	"Technologies"
 }
-replace_path = "history/states"
+#replace_path = "history/states"
 replace_path = "common/countries"
 name = "Romanitas: Developer Version"
 supported_version = "1.12.*"
