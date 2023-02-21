@@ -13,7 +13,7 @@
  ALN_ADJ: "Alanian"
  #Algonconquiana
  ALQ: "Algonconquiana"
- ALQ_DEF: "the Algonconquiana"
+ ALQ_DEF: "Algonconquiana"
  ALQ_ADJ: "Algonconquianan"
  #Anasasia
  ANA: "Anasasia"
@@ -81,7 +81,7 @@
  ICC_ADJ: "Indian Occidental"
  #Lacota
  LAC: "Lacota"
- LAC_DEF: "the Lacota"
+ LAC_DEF: "Lacota"
  LAC_ADJ: "Lacotan"
  #Libya
  LBY: "Libya"
@@ -93,12 +93,12 @@
  MAI_ADJ: "Maian"
  #Masaesylia
  MAS: "Masaesylia"
- MAS_DEF: "the Maseasyli"
+ MAS_DEF: "Maseasylia"
  MAS_ADJ: "Maseasyli"
  #Mauritania
  MAU: "Mauritania"
  MAU_DEF: "Mauritania"
- MAU_ADJ: "the Mauritanian"
+ MAU_ADJ: "Mauritanian"
  #Mexica
  MXA: "Mexica"
  MXA_DEF: "Mexica"
