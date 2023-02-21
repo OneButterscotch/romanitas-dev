@@ -4,7 +4,7 @@ state = {
 	manpower = 9824296
 	state_category = megalopolis
 	history = {
-		owner = RME
+		owner = BRT
 		victory_points = {
 			6103 50 
 		}
@@ -20,9 +20,7 @@ state = {
 				naval_base = 10
 			}
 		}
-		add_core_of = ENG
-		add_core_of = RME
-		controller = RME
+		add_core_of = BRT
 	}
 	provinces = {
 		6103 9239 11333 11374 

@@ -8,7 +8,7 @@ state = {
 		aluminium = 3
 	}
 	history = {
-		owner = RME
+		owner = CMB
 		victory_points = {
 			407 3 
 		}
@@ -23,10 +23,7 @@ state = {
 				naval_base = 3
 			}
 		}
-		add_core_of = ENG
-		add_core_of = WLS
-		add_core_of = RME
-		controller = RME
+		add_core_of = CMB
 	}
 	provinces = {
 253 311 377 407 3274 6363 9364 11361 	}
