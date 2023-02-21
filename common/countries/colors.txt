@@ -165,10 +165,6 @@ ELS = {
 	color = rgb { 152 130 191 }
 	color_ui = rgb { 198 169 248 }
 }
-ETH = {
-	color = rgb { 152 130 191 }
-	color_ui = rgb { 198 169 248 }
-}
 GUA = {
 	color = rgb { 72 49 112 }
 	color_ui = rgb { 72 49 112 }
@@ -208,10 +204,6 @@ NZL = {
 PAN = {
 	color = rgb { 152 130 191 }
 	color_ui = rgb { 198 169 248 }
-}
-PER = {
-	color = rgb { 71 113 97 }
-	color_ui = rgb { 92 147 126 }
 }
 PHI = {
 	color = rgb { 230 230 230 }
@@ -331,11 +323,6 @@ XSM = {
 LBA = {
 	color = rgb { 200 180 90 }
 	color_ui = rgb { 200 180 90 }
-}
-
-EGY = {
-	color = rgb { 230 230 70 }
-	color_ui = rgb { 230 230 70 }
 }
 
 PAL = {
@@ -1021,7 +1008,7 @@ NUB = {
 	color = rgb { 153 0 0 }
 	color_ui = rgb { 153 0 0 }
 }
-ETI = {
+ETH = {
 	color = rgb { 153 0 0 }
 	color_ui = rgb { 153 0 0 }
 }
@@ -1053,7 +1040,7 @@ FEN = {
 	color = rgb { 153 0 0 }
 	color_ui = rgb { 153 0 0 }
 }
-PRS = {
+PER = {
 	color = rgb { 153 0 0 }
 	color_ui = rgb { 153 0 0 }
 }
@@ -1073,7 +1060,7 @@ BAC = {
 	color = rgb { 153 0 0 }
 	color_ui = rgb { 153 0 0 }
 }
-AEG = {
+EGY = {
 	color = rgb { 153 0 0 }
 	color_ui = rgb { 153 0 0 }
 }
