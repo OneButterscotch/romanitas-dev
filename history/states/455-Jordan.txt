@@ -4,7 +4,7 @@ state = {
 	manpower = 932000
 	state_category = rural
 	history = {
-		owner = RME
+		owner = PET
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
@@ -15,9 +15,7 @@ state = {
 		victory_points = {
 			11976 1 
 		}
-		add_core_of = JOR
-		add_core_of = RME
-		controller = RME
+		add_core_of = PET
 	}
 	provinces = {
 		1544 4017 4115 4440 4562 4574 4591 4603 7001 7151 7170 10089 11976 

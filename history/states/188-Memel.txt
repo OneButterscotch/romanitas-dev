@@ -7,7 +7,7 @@ state = {
 		victory_points = {
 			3288 3
 		}
-		owner = RME
+		owner = PTN
 		buildings = {
 			infrastructure = 3 
 			industrial_complex = 1
@@ -15,9 +15,7 @@ state = {
 				naval_base = 1
 			}
 		}
-		add_core_of = LIT
-		add_core_of = RME
-		controller = RME
+		add_core_of = PTN
 	}
 	provinces = {
 		3288 	

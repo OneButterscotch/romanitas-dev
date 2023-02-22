@@ -5,7 +5,7 @@ state = {
 		steel = 1.000
 	}
 	history = {
-		owner = RME
+		owner = LIV
 		victory_points = {
 			9340 5 
 		}
@@ -19,9 +19,7 @@ state = {
 			}
 
 		}
-		add_core_of = LAT
-		add_core_of = RME
-		controller = RME
+		add_core_of = LIV
 	}
 	provinces = {
 		9240 9340 10323 

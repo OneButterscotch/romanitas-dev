@@ -7,9 +7,8 @@ state = {
 		chromium = 3
 	}
 	history = {
-		owner = RME
+		owner = CYP
 		add_core_of = CYP
-		add_core_of = RME
 		victory_points = {
 			11984 5
 		}
@@ -23,7 +22,6 @@ state = {
 				naval_base = 2
 			}
 		}
-		controller = RME
 	}
 	provinces = { 7193 11984 }
 	local_supplies = 0.0
