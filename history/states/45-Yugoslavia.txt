@@ -3,15 +3,12 @@ state = {
 	name = "STATE_45"
 	history = {
 		victory_points = { 619 3 }
-		owner = RME
+		owner = PNN
 		buildings = {
 			infrastructure = 3
 
 		}
-		add_core_of = YUG
-		add_core_of = SER
-		add_core_of = RME
-		controller = RME
+		add_core_of = PNN
 	}
 	provinces = {
 		619 3617 3623 9608 9621

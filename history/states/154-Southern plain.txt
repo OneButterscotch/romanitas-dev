@@ -4,7 +4,7 @@ state = {
 	manpower = 2735383
 	state_category = city
 	history = {
-		owner = RME
+		owner = PNN
 		buildings = {
 			infrastructure = 3 
 			industrial_complex = 3
@@ -14,9 +14,7 @@ state = {
 		victory_points = {
 			11659 1 
 		}
-		add_core_of = HUN
-		add_core_of = RME
-		controller = RME
+		add_core_of = PNN
 	}
 	provinces = {
 		679 699 730 3730 6670 6700 6735 9656 9706 11625 11644 11646 11659 

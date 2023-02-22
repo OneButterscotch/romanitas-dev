@@ -13,13 +13,11 @@ state = {
 		victory_points = {
 			3458 5
 		}
-		owner = RME
+		owner = LEC
 		buildings = {
 			infrastructure = 3
 		}
-		add_core_of = POL
-		add_core_of = RME
-		controller = RME
+		add_core_of = LEC
 	}
 	provinces = {
 		562 3458 3497 3586 6416 11430 11532 

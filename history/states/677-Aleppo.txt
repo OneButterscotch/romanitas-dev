@@ -2,7 +2,7 @@ state = {
 	id = 677
 	name = "STATE_677"
 	history = {
-		owner = RME
+		owner = SYR
 		victory_points = {
 			12473 3 
 		}
@@ -14,8 +14,6 @@ state = {
 
 		}
 		add_core_of = SYR
-		add_core_of = RME
-		controller = RME
 	}
 	provinces = {
 		1056 1072 1088 7140 7671 10087 12473 

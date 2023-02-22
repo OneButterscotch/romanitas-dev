@@ -7,7 +7,7 @@ state = {
 	}
 	state_category = city
 	history = {
-		owner = RME
+		owner = RHN
 		victory_points = {
 			692 20
 		}
@@ -20,9 +20,7 @@ state = {
 			industrial_complex = 1
 			air_base = 6
 		}
-		add_core_of = GER
-		add_core_of = RME
-		controller = RME
+		add_core_of = RHN
 	}
 	provinces = {
 		692 707 708 3688 3705 6540 6693 9652 9666 11620 11638 11653 

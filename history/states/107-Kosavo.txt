@@ -2,7 +2,7 @@ state = {
 	id = 107
 	name = "STATE_107"
 	history = {
-		owner = RME
+		owner = ILY
 		buildings = {
 			infrastructure = 3
 			arms_factory = 3
@@ -13,10 +13,7 @@ state = {
 		victory_points = {
 			11586 15 
 		}
-		add_core_of = YUG
-		add_core_of = SER
-		add_core_of = RME
-		controller = RME
+		add_core_of = ILY
 	}
 	provinces = {
 		797 3609 3956 3984 6634 9599 11583 11586 

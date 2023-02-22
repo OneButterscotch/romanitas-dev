@@ -4,7 +4,7 @@ state = {
 	manpower = 2106500
 	state_category = city
 	history = {
-		owner = RME
+		owner = LEC
 		victory_points = {
 			6558 10
 		}
@@ -25,8 +25,7 @@ state = {
 			}
 			air_base = 3
 		}
-		add_core_of = POL
-		controller = RME
+		add_core_of = LEC
 	}
 	provinces = {
 		17 388 3381 3460 3532 6558 9532 11232 11558

@@ -4,18 +4,14 @@ state = {
 	manpower = 585579
 	state_category = rural
 	history = {
-		owner = RME
-		controller = RME
+		owner = DAC
 		victory_points = {
 			3614 1
 		}
 		buildings = {
 			infrastructure = 3 
 		}
-		add_core_of = YUG
-		add_core_of = SER
-		add_core_of = TRA
-		add_core_of = RME
+		add_core_of = DAC
 	}
 	provinces = {
 		614 3614 6643 11787

@@ -4,16 +4,14 @@ state = {
 	manpower = 195325
 	state_category = rural
 	history = {
-		owner = RME
+		owner = ING
 		buildings = {
 			infrastructure = 3 
 		}
-		add_core_of = SOV
-		add_core_of = RME
+		add_core_of = ING
 		victory_points = {
 			9197 1
 		}
-		controller = RME
 	}
 	provinces = {
 		70 3072 3110 6035 6095 9164 9197 11174 

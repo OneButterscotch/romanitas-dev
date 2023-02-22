@@ -32,7 +32,6 @@ state = {
 			}
 
 		}
-		controller = RME
 	}
 	provinces = {
 		68 391 3211 3314 9498 

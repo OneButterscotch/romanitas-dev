@@ -4,7 +4,7 @@ state = {
 	manpower = 1081781
 	state_category = town
 	history = {
-		owner = RME
+		owner = SYR
 		victory_points = {
 			9893 15
 		}
@@ -24,10 +24,7 @@ state = {
 				naval_base = 3
 			}
 		}
-		add_core_of = TUR
-		add_core_of = RME
-		add_claim_by = KUR
-		controller = RME
+		add_core_of = SYR
 	}
 	provinces = {
 		806 3889 6813 7620 9893 9912 11746 

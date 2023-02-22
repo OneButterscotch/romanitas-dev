@@ -7,18 +7,14 @@ state = {
 		aluminium = 7
 	}
 	history = {
-		owner = RME
+		owner = ILY
 		victory_points = {
 			9894 3
 		}
 		buildings = {
 			infrastructure = 2
 		}
-		add_core_of = YUG
-		add_core_of = BOS
-		add_core_of = HRZ
-		add_core_of = RME
-		controller = RME
+		add_core_of = ILY
 	}
 	provinces = {
 		953 6942 9894 11845 

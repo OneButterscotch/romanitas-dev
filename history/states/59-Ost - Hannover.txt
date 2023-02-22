@@ -7,7 +7,7 @@ state = {
 	}
 	state_category = large_city
 	history = {
-		owner = RME
+		owner = GRM
 		victory_points = {
 			3326 5 
 		}
@@ -24,9 +24,7 @@ state = {
 			}
 
 		}
-		add_core_of = GER
-		add_core_of = RME
-		controller = RME
+		add_core_of = GRM
 	}
 	provinces = {
 		374 526 3271 3326 3395 6218 6263 6298 6325 6349 6377 6513 9238 9264 9375 11402 11468 11493 

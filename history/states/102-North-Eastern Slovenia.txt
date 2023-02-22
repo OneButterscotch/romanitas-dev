@@ -6,16 +6,15 @@ state=
 	
 	state_category = large_town
 	
-	history =
-	{
-		owner = RME
+	history = {
+		owner = RHN
 		buildings = {
 			infrastructure = 3
 		}
 		victory_points = {
 			665 1
 		}
-		add_core_of = RME
+		add_core_of = RHN
 	}
 	provinces={
 		596 665 3631 3654 6672 9596
