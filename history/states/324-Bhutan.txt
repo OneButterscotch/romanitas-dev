@@ -7,7 +7,7 @@ state = {
 		tungsten = 2
 	}
 	history = {
-		owner = SIN
+		owner = BHU
 		buildings = {
 			infrastructure = 1
 			arms_factory = 1
@@ -17,8 +17,6 @@ state = {
 			8010 3 
 		}
 		add_core_of = BHU
-		add_core_of = SIN
-		controller = SIN
 	}
 	provinces = {
 		8010 12860 

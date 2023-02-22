@@ -4,7 +4,7 @@ state = {
 	manpower = 120000
 	state_category = small_island
 	history = {
-		owner = RME
+		owner = GRA
 		victory_points = {
 			10007 1 
 		}
@@ -18,11 +18,7 @@ state = {
 				naval_base = 1
 			}
 		}
-		add_core_of = GRE
-		add_core_of = RME
-		set_state_name = STATE_164_ITA
-		set_province_name = { id = 10007 name = VICTORY_POINTS_10007_ITA }
-		controller = RME
+		add_core_of = GRA
 	}
 	provinces = {
 		7003 10007

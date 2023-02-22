@@ -8,7 +8,7 @@ state = {
 		chromium = 8
 	}
 	history = {
-		owner = RME
+		owner = VND
 		victory_points = {
 			9355 10
 		}
@@ -17,9 +17,7 @@ state = {
 			industrial_complex = 1
 			air_base = 4
 		}
-		add_core_of = SOV
-		add_core_of = RME
-		controller = RME
+		add_core_of = VND
 	}
 	provinces = {
 		302 328 384 6355 9328 9355 9384 9411 11214 11283 11310 11337 11368 

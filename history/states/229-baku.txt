@@ -5,7 +5,7 @@ state = {
 		oil = 70
 	}
 	history = {
-		owner = RME
+		owner = ARM
 		victory_points = {
 			7661 10 
 		}
@@ -18,9 +18,7 @@ state = {
 			fuel_silo = 1
 			air_base = 1
 		}
-		add_core_of = SOV
-		add_core_of = AZR
-		controller = RME
+		add_core_of = ARM
 	}
 	provinces = {
 		1467 1536 1539 1610 4458 4473 4477 4545 4614 6763 7495 7661 9715 11645 11674 11704 12434 

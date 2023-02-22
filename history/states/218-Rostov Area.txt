@@ -4,7 +4,7 @@ state = {
 	manpower = 1501076
 	state_category = city
 	history = {
-		owner = RME
+		owner = TAU
 		victory_points = {
 			9417 15 
 		}
@@ -17,9 +17,7 @@ state = {
 				naval_base = 5
 			}
 		}
-		add_core_of = SOV
-		add_core_of = RME
-		controller = RME
+		add_core_of = TAU
 	}
 	provinces = {
 		585 6445 9417 9430 11418 11434 11450 11559 

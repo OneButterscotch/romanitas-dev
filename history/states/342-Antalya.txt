@@ -7,7 +7,7 @@ state = {
 	}
 	state_category = rural
 	history = {
-		owner = RME
+		owner = ASI
 		victory_points = {
 			1005 5 
 		}
@@ -18,9 +18,7 @@ state = {
 				naval_base = 4
 			}
 		}
-		add_core_of = TUR
-		add_core_of = RME
-		controller = RME
+		add_core_of = ASI
 	}
 	provinces = {
 		1005 1119 9941 10122 11917 12013 12016 12096 

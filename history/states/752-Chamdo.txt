@@ -8,10 +8,8 @@ state = {
 	buildings_max_level_factor = 1.000
 	state_category = pastoral
 	history = {
-		owner = SIN
-		add_core_of = CHI
-		add_core_of = PRC
-		add_core_of = SIN
+		owner = TIB
+		add_core_of = TIB
 		victory_points = {
 			4999 1
 		}
@@ -19,7 +17,6 @@ state = {
 			infrastructure = 1
 
 		}
-		controller = SIN
 	}
 	local_supplies = 1.0
 

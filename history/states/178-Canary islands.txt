@@ -4,7 +4,7 @@ state = {
 	manpower = 561347
 	state_category = small_island
 	history = {
-		owner = RME
+		owner = MAU
 		victory_points = {
 			13071 1
 		}
@@ -14,9 +14,7 @@ state = {
 				naval_base = 1
 			}
 		}
-		add_core_of = SPR
-		add_core_of = RME
-		controller = RME
+		add_core_of = MAU
 	}
 	provinces = {
 		13071 

@@ -2,16 +2,12 @@ state = {
 	id = 612
 	name = "STATE_612"
 	history = {
-		owner = SIN
+		owner = MEN
 		add_core_of = MEN
-		add_core_of = CHI
-		add_core_of = PRC
-		add_core_of = SIN
 		buildings = {
 			infrastructure = 1
 
 		}
-		controller = SIN
 	}
 	provinces = {
 		1551 1608 1796 1811 1871 4222 4555 7578 7648 10363 10372 12348 12448 12554 

@@ -8,11 +8,8 @@ state = {
 		chromium = 2
 	}
 	history = {
-		owner = SIN
+		owner = SIK
 		add_core_of = SIK
-		add_core_of = CHI
-		add_core_of = PRC
-		add_core_of = SIN
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
@@ -20,7 +17,6 @@ state = {
 		victory_points = {
 			2015 2
 		}
-		controller = SIN
 	}
 	provinces = {
 		1766 1970 2015 4828 5016 5087 7790 7949 8112 12119 

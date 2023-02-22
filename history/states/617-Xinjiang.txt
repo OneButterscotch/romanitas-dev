@@ -2,11 +2,8 @@ state = {
 	id = 617
 	name = "STATE_617"
 	history = {
-		owner = SIN
+		owner = SIK
 		add_core_of = SIK
-		add_core_of = CHI
-		add_core_of = PRC
-		add_core_of = SIN
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 2
@@ -15,7 +12,6 @@ state = {
 		victory_points = {
 			4709 5
 		}
-		controller = SIN
 	}
 	provinces = {
 		1703 4682 4709 4770 7702 7792 7850 10545 10614 12526 12601 12656 

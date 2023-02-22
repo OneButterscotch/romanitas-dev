@@ -148,9 +148,9 @@
  VNT_DEF: "Venciatia"
  VNT_ADJ: "Venciatian"
  #Ruthenia
- RUT: "Ruthenia"
- RUT_DEF: "Ruthenia"
- RUT_ADJ: "Ruthenian"
+ RTH: "Ruthenia"
+ RTH_DEF: "Ruthenia"
+ RTH_ADJ: "Ruthenian"
  #Britannia
  BRT: "Britannia"
  BRT_DEF: "Britannia"

@@ -7,7 +7,7 @@ state = {
 		chromium = 2
 	}
 	history = {
-		owner = SIN
+		owner = NEP
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1
@@ -17,8 +17,6 @@ state = {
 			4987 3 
 		}
 		add_core_of = NEP
-		add_core_of = SIN
-		controller = SIN
 	}
 	provinces = {
 		4386 4987 5310 7374 10825 10910 12892 

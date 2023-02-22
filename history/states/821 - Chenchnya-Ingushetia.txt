@@ -7,16 +7,14 @@ state = {
 		oil = 9
 	}
 	history = {
-		owner = RME
+		owner = IBE
 		buildings = {
 			infrastructure = 2
 		}
 		victory_points = {
 			3672 5 
 		}
-		add_core_of = SOV
-		add_core_of = CIN
-		controller = RME
+		add_core_of = IBE
 	}
 	provinces = {
 		666 670 1455 3667 3672 6689

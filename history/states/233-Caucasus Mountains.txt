@@ -5,16 +5,15 @@ state = {
 		chromium = 18
 	}
 	history = {
-		owner = RME
+		owner = IBE
 		buildings = {
 			infrastructure = 2
 
 		}
-		add_core_of = SOV
+		add_core_of = IBE
 		victory_points = {
 			9663 1
 		}
-		controller = RME
 	}
 	provinces = {
 		  3698 6692 6721 9649 9663 9674 11664 
