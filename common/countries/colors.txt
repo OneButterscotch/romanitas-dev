@@ -1274,3 +1274,39 @@ LAT = {
 	color = rgb { 153 0 0 }
 	color_ui = rgb { 153 0 0 }
 }
+TMN = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+PTN = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+ALP = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+LIV = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+BLT = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+IBE = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+BSP = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+JUD = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+PET = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}

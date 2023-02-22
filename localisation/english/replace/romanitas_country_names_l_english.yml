@@ -307,3 +307,39 @@
  TRP: "Tripolitania"
  TRP_DEF: "Tripolitania"
  TRP_ADJ: "Tripolitanian"
+ #Thule Minor
+ TMN: "Thule Minor"
+ TMN_DEF: "Thule Minor"
+ TMN_ADJ: "Thule Minor"
+ #Prutenia
+ PTN: "Prutenia"
+ PTN_DEF: "Prutenia"
+ PTN_ADJ: "Pruteni"
+ #Alpes
+ ALP: "Alpes"
+ ALP_DEF: "Alpes"
+ ALP_ADJ: "Alpine"
+ #Livonia
+ LIV: "Livonia"
+ LIV_DEF: "Livonia"
+ LIV_ADJ: "Livonian"
+ #Baltica
+ BLT: "Baltica"
+ BLT_DEF: "Baltica"
+ BLT_ADJ: "Baltic"
+ #Iberia
+ IBE: "Iberia"
+ IBE_DEF: "Iberia"
+ IBE_ADJ: "Iberian"
+ #Bosporia
+ BSP: "Bosporia"
+ BSP_DEF: "Bosporia"
+ BSP_ADJ: "Bosporic"
+ #Judea
+ JUD: "Judea"
+ JUD_DEF: "Judea"
+ JUD_ADJ: "Judean"
+ #Arabia Petrea
+ PET: "Arabia Petrea"
+ PET_DEF: "Arabia Petrea"
+ PET_ADJ: "Arabia Petrean"
