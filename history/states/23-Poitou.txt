@@ -8,6 +8,8 @@ state = {
 	}
 	history = {
 		owner = GAU
+                add_core_of = GAU
+                add_core_of = RME
 		victory_points = {
 			6657 5
 		}
@@ -18,7 +20,6 @@ state = {
 				naval_base = 3
 			}
 		}
-		add_core_of = GAU
 	}
 	provinces = {
 		595 629 655 3659 6657 9597 9631 11582 11596 11600 

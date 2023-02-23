@@ -7,7 +7,7 @@ state = {
 		chromium = 7
 	}
 	history = {
-		owner = BYZ
+		owner = RME
 		buildings = {
 			infrastructure = 1
 			dockyard = 1
@@ -24,7 +24,9 @@ state = {
 		victory_points = {
 			8435 1
 		}
-		add_core_of = BYZ
+		add_core_of = GRE
+		add_core_of = RME
+		controller = RME
 	}
 	provinces = {
 		3401 6550 8435 

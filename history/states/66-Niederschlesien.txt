@@ -9,6 +9,9 @@ state = {
 	state_category = large_city
 	history = {
 		owner = LEC
+                add_core_of = LEC
+                add_core_of = RME
+                add_core_of = GRM
 		victory_points = {
 			9570 10 
 		}
@@ -17,7 +20,6 @@ state = {
 			industrial_complex = 1
 			air_base = 6
 		}
-		add_core_of = LEC
 	}
 	provinces = {
 		552 3283 3438 3485 3510 3545 6462 6534 6595 9470 9570 11517 

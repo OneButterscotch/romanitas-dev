@@ -5,6 +5,8 @@ state = {
 	state_category = city
 	history = {
 		owner = RTH
+                add_core_of = RTH
+                add_core_of = RME
 		victory_points = {
 			11670 10 
 		}
@@ -17,7 +19,6 @@ state = {
 				coastal_bunker = 1
 			}
 		}
-		add_core_of = RTH
 	}
 	provinces = {
 		  3575 3738 9698 9714 11670 11703 

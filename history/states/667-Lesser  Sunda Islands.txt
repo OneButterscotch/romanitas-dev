@@ -5,7 +5,7 @@ state = {
 		rubber = 12
 	}
 	history = {
-		owner = NIO
+		owner = INS
 		add_core_of = INS
 		add_core_of = NIO
 		buildings = {
@@ -24,7 +24,6 @@ state = {
 			}
 
 		}
-		controller = NIO
 	}
 	provinces = {
 		1298 1339 1355 4273 4301 4358 7293 7321 10175 10191 10219 12151 12162 12219 12234 

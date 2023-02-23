@@ -1,10 +1,10 @@
 
-State={
+state={
 	id=361
 	name="STATE_361"
 
 	history={
-		owner = CAL
+		owner = ALQ
 		victory_points = {
 			3957 40 
 		}
@@ -27,11 +27,12 @@ State={
 
 		}
 		add_core_of = CAL
+                add_core_of = ALQ
 
 	}
 
 	provinces={
-		3957 6823 6929 6984 11892 
+		3917 3957 6823 6892 6929 6984 9758 9786 11892 
 	}
 	manpower=2118394
 	buildings_max_level_factor=1.000

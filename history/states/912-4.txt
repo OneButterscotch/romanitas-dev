@@ -1,0 +1,24 @@
+state={
+	id=912
+	name="STATE_912"
+
+	history={
+		owner = KSH
+                add_core_of = KSH
+                add_core_of = SIN
+                add_core_of = SIK
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		5042 
+	}
+	manpower=60000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

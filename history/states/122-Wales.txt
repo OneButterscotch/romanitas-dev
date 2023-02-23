@@ -9,6 +9,9 @@ state = {
 	}
 	history = {
 		owner = CMB
+                add_core_of = CMB
+                add_core_of = BRT
+                add_core_of = RME
 		victory_points = {
 			407 3 
 		}
@@ -23,7 +26,6 @@ state = {
 				naval_base = 3
 			}
 		}
-		add_core_of = CMB
 	}
 	provinces = {
 253 311 377 407 3274 6363 9364 11361 	}

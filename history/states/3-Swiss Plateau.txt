@@ -3,14 +3,17 @@ state={
 	id=3
 	name="STATE_3"
 	manpower = 1216838
-	#resources={
-	#}
+	resources={
+	}
 
 	state_category = city
 
 
 	history={
 		owner = RHN
+                add_core_of = RHN
+                add_core_of = RME
+                add_core_of = GRM
 		victory_points = { 9620 15 }
 		victory_points = { 663 10 }
 		buildings = {
@@ -19,7 +22,6 @@ state={
 			industrial_complex = 3
 			air_base = 4
 		}
-		add_core_of = RHN
 	}
 
 	provinces={

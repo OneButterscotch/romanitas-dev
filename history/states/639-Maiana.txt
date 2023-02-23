@@ -4,7 +4,7 @@ state = {
 	manpower = 1035
 	state_category = small_island
 	history = {
-		owner = NIO
+		owner = FIJ
 		add_core_of = FIJ
 		add_core_of = NIO
 		buildings = {
@@ -25,7 +25,6 @@ state = {
 		victory_points = {
 			13021 1 
 		}
-		controller = NIO
 	}
 	provinces = {
 		4387 7393 13020 13021 13022 

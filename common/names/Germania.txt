@@ -1,0 +1,18 @@
+GRM = {
+	male = {
+		names = {
+			
+		}
+	}
+	female = {
+		names = {
+			
+		}
+	}
+	surnames = {
+		
+	}
+	callsigns = {
+		
+	}
+}

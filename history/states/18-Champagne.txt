@@ -5,6 +5,8 @@ state = {
 	state_category = city
 	history = {
 		owner = GAU
+                add_core_of = GAU
+                add_core_of = RME
 		victory_points = {
 			9490 5 
 		}
@@ -19,7 +21,6 @@ state = {
 			industrial_complex = 1
 			air_base = 10
 		}
-		add_core_of = GAU
 	}
 	provinces = {
 		551 3533 3546 3560 5291 6531 6545 9472 9490 9505 11732 13011 

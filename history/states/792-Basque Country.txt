@@ -6,10 +6,12 @@ state = {
 	}
 	history = {
 		owner = HSP
+                add_core_of = HSP
+                add_core_of = RME
 		victory_points = {
 			740 10
 		}
-		add_core_of = HSP
+		add_core_of = NAV
 		buildings = {
 			infrastructure = 3 
 			industrial_complex = 1

@@ -2,6 +2,7 @@ state = {
 	id = 190
 	name = "STATE_190"
 	state_category = rural
+	state_category = rural
 	history = {
 		victory_points = {
 			9262 3
@@ -9,7 +10,9 @@ state = {
 		victory_points = {
 			3296 1 
 		}
-		owner = BLT
+		owner = LIT
+                add_core_of = LIT
+                add_core_of = RME
 		buildings = {
 			infrastructure = 3 
 			9262 = {
@@ -17,7 +20,7 @@ state = {
 			}
 			dockyard = 1
 		}
-		add_core_of = BLT
+		add_core_of = LAT
 	}
 	provinces = {
 		3194 3296 3319 6322 9262 11246 

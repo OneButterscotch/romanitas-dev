@@ -6,6 +6,9 @@ state = {
 	}
 	history = {
 		owner = HSP
+                add_core_of = LUS
+                add_core_of = HSP
+                add_core_of = RME
 		victory_points = {
 			726 1
 		}
@@ -14,7 +17,6 @@ state = {
 			industrial_complex = 1
 
 		}
-		add_core_of = HSP
 	}
 	provinces = {
 		726 918 920 3725 3727 3918 3920 6746 6907 9699 11843 13219 13232 

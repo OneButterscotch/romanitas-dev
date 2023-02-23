@@ -2,7 +2,7 @@ state = {
 	id = 637
 	name = "STATE_637"
 	history = {
-		owner = NIO
+		owner = FER
 		buildings = {
 			infrastructure = 1
 			12207 = {
@@ -14,7 +14,6 @@ state = {
 		add_core_of = SOV
 		add_core_of = FER
 		add_core_of = NIO
-		controller = NIO
 	}
 	provinces = {
 		1823 1839 1863 4728 7878 12207 12522 

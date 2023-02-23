@@ -5,11 +5,13 @@ state = {
 	state_category = pastoral
 	history = {
 		owner = RHN
+                add_core_of = RHN
+                add_core_of = RME
+                add_core_of = GRM
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 		}
-		add_core_of = RHN
 	}
 	provinces = {
 		6678 6680 

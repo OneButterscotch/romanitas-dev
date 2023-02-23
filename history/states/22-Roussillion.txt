@@ -9,6 +9,9 @@ state = {
 	}
 	history = {
 		owner = GTR
+		add_core_of = GTR
+                add_core_of = GAU
+                add_core_of = RME
 		victory_points = {
 			9898 1 
 		}
@@ -17,7 +20,6 @@ state = {
 			industrial_complex = 2
 			air_base = 2
 		}
-		add_core_of = GTR
 	}
 	provinces = {
 		752 760 3751 6770 6960 6962 9723 9898 11709 11711 11877 

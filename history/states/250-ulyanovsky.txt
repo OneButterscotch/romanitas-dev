@@ -8,11 +8,12 @@ state = {
 	}
 	history = {
 		owner = VND
+                add_core_of = VND
+		add_core_of = RME
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 		}
-		add_core_of = VND
 		victory_points = {
 			392 1
 		}

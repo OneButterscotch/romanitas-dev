@@ -1,13 +1,15 @@
-state = {
-	id = 431
-	name = "STATE_431"
-	resources = {
-		steel = 13.000
+
+state={
+	id=431
+	name="STATE_431"
+	resources={
+		steel=13.000
 	}
-	history = {
+
+	history={
 		owner = IND
 		buildings = {
-			infrastructure = 3 
+			infrastructure = 3
 			industrial_complex = 1
 			dockyard = 1
 			air_base = 2
@@ -21,13 +23,15 @@ state = {
 			4245 5 
 		}
 		add_core_of = IND
-	}
-	provinces = {
-		1159 1609 1656 4062 4204 4245 4435 4644 7220 7475 7537 7565 7593 10077 12050 12338 
-	}
-	manpower = 18778100
-	buildings_max_level_factor = 1.000
-	state_category = city
-	local_supplies = 0.0
+		controller = IND
 
+	}
+
+	provinces={
+		1159 1609 1656 4062 4204 4245 4644 7220 7475 7537 7565 7593 10077 12050 
+	}
+	manpower=18778100
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
 }

@@ -8,13 +8,17 @@ state = {
 	}
 	history = {
 		owner = BLG
+		add_core_of = BLG
+                add_core_of = GAU
+                add_core_of = GRM
+                add_core_of = BAT
+                add_core_of = RME
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1
 			industrial_complex = 3
 		}
 		victory_points = { 6583 5 }
-		add_core_of = BLG
 	}
 	provinces = {
 6583 	}

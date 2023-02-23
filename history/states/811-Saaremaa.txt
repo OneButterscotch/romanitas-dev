@@ -2,14 +2,15 @@ state = {
 	id = 811
 	name = "STATE_811"
 	history = {
-		owner = LIV
+		owner = LAT
 		buildings = {
 			infrastructure = 1
 		}
 		victory_points = {
 			185 1
 		}
-		add_core_of = LIV
+		add_core_of = LAT
+		add_core_of = RME
 	}
 	provinces = {
 		185 6201 

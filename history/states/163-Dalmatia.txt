@@ -5,6 +5,8 @@ state = {
 	state_category = enclave
 	history = {
 		owner = ILY
+                add_core_of = ILY
+                add_core_of = RME
 		victory_points = { 
 			3943 5 
 		}
@@ -14,7 +16,6 @@ state = {
 				naval_base = 1
 			}
 		}
-		add_core_of = ILY
 	}
 	provinces = {	
 		3943 

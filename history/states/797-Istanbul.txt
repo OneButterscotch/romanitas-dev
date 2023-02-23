@@ -5,11 +5,13 @@ state = {
 		9833 11829 
 	}
 	manpower = 1042276
-	#resources = {
-	#}
+	resources = {
+	}
 	state_category = city
 	history = {
 		owner = BYZ
+		add_core_of = BYZ
+                add_core_of = RME
 		victory_points = {
 			9833 25
 		}
@@ -22,7 +24,6 @@ state = {
 				naval_base = 8
 			}
 		}
-		add_core_of = BYZ
 	}
 	local_supplies = 0.0
 

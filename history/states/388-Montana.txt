@@ -7,12 +7,13 @@ state={
 	}
 
 	history={
-		owner = NIO
+		owner = JTN
 		buildings = {
 			infrastructure = 2
 
 		}
 		add_core_of = NIO
+                add_core_of = JTN
 		victory_points = {
 			4860 1 
 		}

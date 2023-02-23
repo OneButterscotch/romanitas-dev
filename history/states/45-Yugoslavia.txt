@@ -4,11 +4,14 @@ state = {
 	history = {
 		victory_points = { 619 3 }
 		owner = PNN
+		add_core_of = PNN
+                add_core_of = DAC
+                add_core_of = MOE
+                add_core_of = RME
 		buildings = {
 			infrastructure = 3
 
 		}
-		add_core_of = PNN
 	}
 	provinces = {
 		619 3617 3623 9608 9621

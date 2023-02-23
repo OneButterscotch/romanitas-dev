@@ -4,7 +4,7 @@ state = {
 	manpower = 5167
 	state_category = tiny_island
 	history = {
-		owner = NIO
+		owner = TAH
 		add_core_of = TAH
 		add_core_of = NIO
 		buildings = {
@@ -13,7 +13,6 @@ state = {
 				naval_base = 1
 			}
 		}
-		controller = NIO
 	}
 	buildings_max_level_factor = 1.000
 	provinces = {

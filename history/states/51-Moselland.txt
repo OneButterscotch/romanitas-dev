@@ -1,13 +1,18 @@
-state = {
-	id = 51
-	name = "STATE_51"
-	manpower = 6144743
-	resources = {
-		steel = 30
+
+state={
+	id=51
+	name="STATE_51"
+	resources={
+		steel=30.000
 	}
-	state_category = metropolis
-	history = {
+
+	history={
 		owner = BLG
+		add_core_of = BLG
+		add_core_of = GAU
+		add_core_of = GRM
+		add_core_of = BAT
+		add_core_of = RME
 		victory_points = {
 			6469 10 
 		}
@@ -21,11 +26,14 @@ state = {
 			air_base = 3
 
 		}
-		add_core_of = BLG
-	}
-	provinces = {
-		529 587 3444 3512 3547 6469 6570 9482 9522 
-	}
-	local_supplies = 0.0
 
+	}
+
+	provinces={
+		587 3444 3547 9522 
+	}
+	manpower=6144743
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+	local_supplies=0.000
 }

@@ -8,6 +8,9 @@ state = {
 	state_category = city
 	history = {
 		owner = MOE
+		add_core_of = DAC
+                add_core_of = MOE
+                add_core_of = RME
 		victory_points = { 9617 20 }
 		victory_points = { 3663 5 }
 		victory_points = { 657 3 }
@@ -24,7 +27,6 @@ state = {
 			}
 			dockyard = 1
 		}
-		add_core_of = MOE
 	}
 	provinces = {
 		657 660 674 687 818 3076 3636 3639 3663 6658 6677 6695 9617 9635 9651 11603 11619 11636 

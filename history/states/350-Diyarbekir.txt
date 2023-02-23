@@ -3,6 +3,10 @@ state = {
 	name = "STATE_350"
 	history = {
 		owner = SYR
+		add_core_of = SYR
+                add_core_of = RME
+                add_core_of = PRS
+                add_core_of = MSP
 		victory_points = {
 			4512 5 
 		}
@@ -17,7 +21,6 @@ state = {
 			air_base = 2
 
 		}
-		add_core_of = SYR
 	}
 	provinces = {
 		4512 9823 11759 11871 12387 12416 

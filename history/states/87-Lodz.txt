@@ -5,6 +5,9 @@ state = {
 	state_category = town
 	history = {
 		owner = LEC
+                add_core_of = LEC
+                add_core_of = RME
+                add_core_of = GRM
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 2
@@ -12,7 +15,6 @@ state = {
 		victory_points = {
 			9508 10
 		}
-		add_core_of = LEC
 	}
 	provinces = {
 		493 584 9439 9508 9546 11428 11515 

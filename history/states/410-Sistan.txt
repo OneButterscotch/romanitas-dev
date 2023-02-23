@@ -4,7 +4,7 @@ state = {
 	manpower = 341053
 	state_category = rural
 	history = {
-		owner = PER
+		owner = PRS
 		victory_points = {
 			10782 1 
 		}
@@ -12,8 +12,8 @@ state = {
 			infrastructure = 1
 		}
 		add_core_of = PER
-		add_core_of = PER
-		controller = PER
+		add_core_of = PRS
+		controller = PRS
 	}
 	provinces = {
 		1889 2039 2070 4891 10782 13082 

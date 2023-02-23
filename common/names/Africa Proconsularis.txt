@@ -1,0 +1,18 @@
+AFP = {
+	male = {
+		names = {
+			
+		}
+	}
+	female = {
+		names = {
+			
+		}
+	}
+	surnames = {
+		
+	}
+	callsigns = {
+		
+	}
+}

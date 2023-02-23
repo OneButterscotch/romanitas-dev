@@ -4,7 +4,7 @@ state = {
 	manpower = 1294082
 	state_category = town
 	history = {
-		owner = BSP
+		owner = CRI
 		victory_points = {
 			11405 1
 		}
@@ -12,7 +12,8 @@ state = {
 			infrastructure = 3 
 			air_base = 3
 		}
-		add_core_of = BSP
+		add_core_of = CRI
+		add_core_of = RME
 	}
 	provinces = {
 		429 588 3399 3767 6596 9571 9729 11405 11700 

@@ -8,10 +8,11 @@ state = {
 			651 1
 		}
 		owner = GAU
+                add_core_of = GAU
+                add_core_of = RME
 		buildings = {
 			infrastructure = 3
 		}
-		add_core_of = GAU
 	}
 	provinces = {
 		651 669 3621 3626 3655 6648 6651 9629 11869 

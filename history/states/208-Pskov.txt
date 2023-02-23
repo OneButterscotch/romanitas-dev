@@ -5,11 +5,12 @@ state = {
 	state_category = rural
 	history = {
 		owner = ING
+                add_core_of = ING
+		add_core_of = RME
 		buildings = {
 			infrastructure = 3 
 			air_base = 3
 		}
-		add_core_of = ING
 		victory_points = {
 			9098 1
 		}

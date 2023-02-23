@@ -1,0 +1,18 @@
+RTH = {
+	male = {
+		names = {
+			
+		}
+	}
+	female = {
+		names = {
+			
+		}
+	}
+	surnames = {
+		
+	}
+	callsigns = {
+		
+	}
+}

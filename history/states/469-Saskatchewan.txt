@@ -4,7 +4,8 @@ state={
 	name="STATE_469"
 
 	history={
-		owner = NIO
+		owner = JTN
+                add_core_of = JTN
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1

@@ -8,10 +8,11 @@ state = {
 			3548 1 
 		}
 		owner = PNN
+		add_core_of = PNN
+                add_core_of = RME
 		buildings = {
 			infrastructure = 3
 		}
-		add_core_of = PNN
 	}
 	provinces = {
 		3548 6571 9563 11536 11691 

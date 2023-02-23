@@ -5,6 +5,10 @@ state = {
 	state_category = rural
 	history = {
 		owner = ARM
+		add_core_of = ARM
+                add_core_of = PRS
+                add_core_of = MSP
+                add_core_of = RME
 		victory_points = {
 			12476 1 
 		}
@@ -17,7 +21,6 @@ state = {
 		buildings = {
 			infrastructure = 1
 		}
-		add_core_of = ARM
 	}
 	provinces = {
 		864 1463 7530 10497 11739 12318 12476

@@ -9,6 +9,11 @@ state = {
 	}
 	history = {
 		owner = BLG
+		add_core_of = BLG
+                add_core_of = GAU
+                add_core_of = GRM
+                add_core_of = BAT
+                add_core_of = RME
 		victory_points = {
 			575 5
 		}
@@ -26,7 +31,6 @@ state = {
 				naval_base = 6
 			}
 		}
-		add_core_of = BLG
 	}
 	provinces = {
 		575 3476 3536 6504 9500 11483 11548 11606 

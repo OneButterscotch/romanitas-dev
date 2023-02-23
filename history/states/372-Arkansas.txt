@@ -1,25 +1,30 @@
-state = {
-	id = 372
-	name = "STATE_372"
-	manpower = 1854481
-	state_category = town
-	resources = {
-		aluminium = 14
+
+state={
+	id=372
+	name="STATE_372"
+	resources={
+		aluminium=14.000
 	}
-	history = {
+
+	history={
 		owner = ARC
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 2
+
 		}
 		add_core_of = ARC
 		victory_points = {
 			12489 1 
 		}
-	}
-	provinces = {
-		1503 1646 4444 4567 4597 4625 7485 7543 7586 10355 10477 12458 12489 12778 
-	}
-	local_supplies = 9.0
 
+	}
+
+	provinces={
+		1441 1503 1534 1564 1621 1646 4444 4449 4540 4567 4569 4597 4625 7485 7543 7586 10355 10370 10477 10717 12346 12361 12458 12463 12489 12778 
+	}
+	manpower=1854481
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=9.000
 }

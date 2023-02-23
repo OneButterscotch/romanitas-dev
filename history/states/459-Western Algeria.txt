@@ -7,8 +7,9 @@ state = {
 		steel = 26
 	}
 	history = {
-		owner = MAU
-		add_core_of = MAU
+		owner = AFP
+		add_core_of = AFP
+                add_core_of = RME
 		victory_points = {
 			1145 5 
 		}

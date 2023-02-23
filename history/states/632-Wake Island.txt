@@ -4,8 +4,8 @@ state = {
 	manpower = 150
 	state_category = tiny_island
 	history = {
-		owner = NIO
-		add_core_of = GUM
+		owner = FSM
+		add_core_of = FSM
 		add_core_of = NIO
 		buildings = {
 			infrastructure = 2
@@ -16,7 +16,6 @@ state = {
 		victory_points = {
 			13047 1 
 		}
-		controller = NIO
 	}
 	provinces = {
 		13047 

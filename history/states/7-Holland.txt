@@ -1,12 +1,16 @@
-state = {
-	id = 7
-	name = "STATE_7"
-	resources = {
-		steel = 4.000
+
+state={
+	id=7
+	name="STATE_7"
+	resources={
+		steel=4.000
 	}
-	history = {
+
+	history={
 		owner = BAT
 		add_core_of = BAT
+		add_core_of = GRM
+		add_core_of = RME
 		victory_points = {
 			391 40 
 		}
@@ -32,13 +36,14 @@ state = {
 			}
 
 		}
-	}
-	provinces = {
-		68 391 3211 3314 9498 
-	}
-	manpower = 4123000
-	buildings_max_level_factor = 1.000
-	state_category = metropolis
-	local_supplies = 0.0
 
+	}
+
+	provinces={
+		68 391 3211 3314 
+	}
+	manpower=4123000
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+	local_supplies=0.000
 }

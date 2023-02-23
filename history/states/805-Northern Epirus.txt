@@ -1,23 +1,29 @@
-state = {
-	id = 805
-	name = "STATE_805"
-	provinces = {
-		914 13234 13235
-	}
-	manpower = 262200
-	#resources = {
-	#}
-	state_category = pastoral
-	history = {
-		owner = EPY
+
+state={
+	id=805
+	name="STATE_805"
+
+	history={
+		owner = GRA
+		add_core_of = EPY
+		add_core_of = GRA
+		add_core_of = MAC
+		add_core_of = RME
 		victory_points = {
-			914 1
+			914 1 
 		}
 		buildings = {
 			infrastructure = 1
-		}
-		add_core_of = EPY
-	}
-	local_supplies = 0.0
 
+		}
+
+	}
+
+	provinces={
+		914 
+	}
+	manpower=262200
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
 }

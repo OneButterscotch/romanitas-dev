@@ -4,7 +4,9 @@ state = {
 	manpower = 387900
 	state_category = town
 	history = {
-		owner = GRA
+		owner = GRE
+                add_core_of = GRE
+                add_core_of = RME
 		victory_points = {
 			9940 5
 		}
@@ -21,7 +23,6 @@ state = {
 				naval_base = 3
 			}
 		}
-		add_core_of = GRA
 	}
 	provinces = {
 		1164 4170 9940 12058

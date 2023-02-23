@@ -9,8 +9,9 @@ state = {
 		aluminium = 9
 	}
 	history = {
-		add_core_of = CLD
 		owner = CLD
+                add_core_of = CLD
+                add_core_of = RME
 		victory_points = {
 			6062 1 
 		}

@@ -1,0 +1,18 @@
+CLD = {
+	male = {
+		names = {
+			
+		}
+	}
+	female = {
+		names = {
+			
+		}
+	}
+	surnames = {
+		
+	}
+	callsigns = {
+		
+	}
+}

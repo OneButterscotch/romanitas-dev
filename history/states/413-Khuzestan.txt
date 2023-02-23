@@ -7,7 +7,7 @@ state = {
 	}
 	state_category = rural
 	history = {
-		owner = PER
+		owner = PRS
 		buildings = {
 			infrastructure = 3 
 			5005 = {
@@ -18,8 +18,8 @@ state = {
 			7953 1 
 		}
 		add_core_of = PER
-		add_core_of = PER
-		controller = PER
+		add_core_of = PRS
+		controller = PRS
 	}
 	provinces = {
 		1922 5005 5089 7953 

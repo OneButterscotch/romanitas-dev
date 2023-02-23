@@ -5,6 +5,9 @@ state = {
 	state_category = large_town
 	history = {
 		owner = HSP
+                add_core_of = LUS
+                add_core_of = HSP
+                add_core_of = RME
 		victory_points = {
 			9817 10
 		}
@@ -19,7 +22,6 @@ state = {
 				naval_base = 3
 			}
 		}
-		add_core_of = HSP
 	}
 	provinces = {
 		724 877 3892 6921 6941 9817 11673 

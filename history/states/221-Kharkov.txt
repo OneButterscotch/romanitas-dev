@@ -8,6 +8,8 @@ state = {
 	}
 	history = {
 		owner = TAU
+                add_core_of = TAU
+		add_core_of = RME
 		victory_points = {
 			418 10
 		}
@@ -16,7 +18,6 @@ state = {
 			arms_factory = 1
 			air_base = 5
 		}
-		add_core_of = TAU
 	}
 	provinces = {
 		418 3409 3508 3531 6530 6554 9531 9556 11397 11461 11541 

@@ -6,6 +6,9 @@ state = {
 	}
 	history = {
 		owner = HBA
+                add_core_of = HBA
+                add_core_of = HSP
+                add_core_of = RME
 		victory_points = {
 			9979 5
 		}
@@ -29,7 +32,6 @@ state = {
 			}
 
 		}
-		add_core_of = HBA
 	}
 	provinces = {
 		747 1176 4065 7068 7153 7196 9979 10009 10063 11956 12038 

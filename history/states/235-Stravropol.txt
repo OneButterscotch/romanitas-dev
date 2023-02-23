@@ -7,12 +7,13 @@ state = {
 		chromium = 14
 	}
 	history = {
-		owner = IBE
+		owner = KHA
+                add_core_of = KHA
+                add_core_of = RME
 		buildings = {
 			infrastructure = 2
 			air_base = 2
 		}
-		add_core_of = IBE
 		victory_points = {
 			11696 3
 		}

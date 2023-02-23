@@ -1,0 +1,18 @@
+GRA = {
+	male = {
+		names = {
+			
+		}
+	}
+	female = {
+		names = {
+			
+		}
+	}
+	surnames = {
+		
+	}
+	callsigns = {
+		
+	}
+}

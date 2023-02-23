@@ -4,9 +4,9 @@ state = {
 	manpower = 200000
 	state_category = enclave
 	history = {
-		owner = NIO
-		add_core_of = CHI
-		add_core_of = PRC
+		owner = GXC
+		add_core_of = SIN
+		add_core_of = GXC
 		add_core_of = NIO
 		buildings = {
 			infrastructure = 2
@@ -14,7 +14,6 @@ state = {
 				naval_base = 1
 			}
 		}
-		controller = NIO
 	}
 	provinces = {
 		11981 

@@ -5,6 +5,10 @@ state = {
 	state_category = city
 	history = {
 		owner = GOT
+                add_core_of = GOT
+                add_core_of = DAN
+                add_core_of = RME
+                add_core_of = GRM
 		victory_points = {
 			9279 5 
 		}
@@ -24,7 +28,6 @@ state = {
 				coastal_bunker = 1
 			}
 		}
-		add_core_of = GOT
 	}
 	provinces = {
 		3307 6120 6345 6412 9279 9300 9362 11160 11215 11327 11376 

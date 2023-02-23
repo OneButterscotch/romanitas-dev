@@ -7,14 +7,13 @@ state = {
 		victory_points = { 
 			12683 1 
 		}
-		owner = NIO
+		owner = FER
 		buildings = {
 			infrastructure = 1
 		}
 		add_core_of = SOV
 		add_core_of = FER
 		add_core_of = NIO
-		controller = NIO
 	}
 	provinces = {
 		1865 10540 12683

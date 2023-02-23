@@ -11,11 +11,13 @@ state = {
 			9606 3
 		}
 		owner = DAC
+		add_core_of = DAC
+                add_core_of = MOE
+                add_core_of = RME
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 2
 		}
-		add_core_of = DAC
 	}
 	provinces = {
 		646 662 3649 9606 11592 11608 

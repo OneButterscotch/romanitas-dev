@@ -13,7 +13,8 @@ state = {
 			9821 1
 		}
 		owner = ILY
-		add_core_of = ILY
+                add_core_of = ILY
+                add_core_of = RME
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1

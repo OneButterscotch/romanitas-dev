@@ -5,6 +5,8 @@ state = {
 	state_category = rural
 	history = {
 		owner = THR
+                add_core_of = THR
+                add_core_of = RME
 		victory_points = { 
 			9612 3
 		}
@@ -16,7 +18,6 @@ state = {
 			industrial_complex =1
 
 		}
-		add_core_of = THR
 	}
 	provinces = {
 		3796 3819 3952 6842 9610 9612 

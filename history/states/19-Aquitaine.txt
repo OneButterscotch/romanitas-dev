@@ -7,6 +7,8 @@ state = {
 	}
 	history = {
 		owner = GAU
+                add_core_of = GAU
+                add_core_of = RME
 		victory_points = {
 			9737 20 
 		}
@@ -22,7 +24,6 @@ state = {
 			}
 
 		}
-		add_core_of = GAU
 	}
 	provinces = {
 		6621 6762 6777 9737 11565 

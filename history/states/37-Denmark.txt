@@ -5,6 +5,9 @@ state = {
 	state_category = large_city
 	history = {
 		owner = DAN
+                add_core_of = DAN
+                add_core_of = RME
+                add_core_of = GRM
 		victory_points = { 
 			6287 20 
 		}
@@ -27,7 +30,6 @@ state = {
 				naval_base = 1
 			}
 		}
-		add_core_of = DAN
 	}
 	provinces = {
 		3260 3305 3325 3374 6287 6361 6393 

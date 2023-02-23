@@ -11,10 +11,11 @@ state = {
 			11313 1
 		}
 		owner = VND
+                add_core_of = VND
+		add_core_of = RME
 		buildings = {
 			infrastructure = 3 
 		}
-		add_core_of = VND
 	}
 	provinces = {
 		304 331 360 386 3350 3759 6373 11313 

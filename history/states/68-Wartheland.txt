@@ -11,11 +11,12 @@ state = {
 			3473 1
 		}
 		owner = GRM
+                add_core_of = GRM
+                add_core_of = RME
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
 		}
-		add_core_of = GRM
 	}
 	provinces = {
 		444 537 3473 3572 6236 9387 11478 

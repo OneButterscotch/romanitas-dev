@@ -11,10 +11,11 @@ state = {
 			9566 1
 		}
 		owner = TAU
+                add_core_of = TAU
+		add_core_of = RME
 		buildings = {
 			infrastructure = 3 
 		}
-		add_core_of = TAU
 	}
 	provinces = {
 		463 501 522 3225 3455 3520 6565 9477 9566 11462 11553 

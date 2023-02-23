@@ -2,7 +2,9 @@ state = {
 	id = 97
 	name = "STATE_97"
 	history = {
-		owner = BLT
+		owner = LIT
+                add_core_of = LIT
+                add_core_of = RME
 		victory_points = {
 			11301 3
 		}
@@ -18,7 +20,6 @@ state = {
 			air_base = 3
 
 		}
-		add_core_of = BLT
 	}
 	provinces = {
 		290 347 400 3254 11247 11274 11301 11329 11357 

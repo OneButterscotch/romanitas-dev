@@ -7,8 +7,10 @@ state = {
 		victory_points = {
 			6727 1
 		}
-		add_core_of = MOE
 		owner = MOE
+		add_core_of = DAC
+                add_core_of = MOE
+                add_core_of = RME
 		buildings = {
 			infrastructure = 2
 			dockyard = 1
@@ -17,8 +19,7 @@ state = {
 			}
 		}
 	}
-	provinces = {
-3701 3704 6727 6743	}
+	provinces = { 3701 3704 6727 6743 }
 	local_supplies = 0.0
 
 }

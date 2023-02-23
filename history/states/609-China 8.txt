@@ -4,8 +4,8 @@ state = {
 	manpower = 6400000
 	state_category = town
 	history = {
-		owner = SIN
-		add_core_of = CHI
+		owner = MAN
+		add_core_of = MAN
 		add_core_of = PRC
 		add_core_of = SIN
 		buildings = {
@@ -16,7 +16,6 @@ state = {
 				naval_base = 2
 			}
 		}
-		controller = SIN
 	}
 	provinces = {
 		900 1052 3830 3900 6969 11822 12043 

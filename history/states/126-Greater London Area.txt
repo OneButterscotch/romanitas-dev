@@ -5,6 +5,8 @@ state = {
 	state_category = megalopolis
 	history = {
 		owner = BRT
+                add_core_of = BRT
+                add_core_of = RME
 		victory_points = {
 			6103 50 
 		}
@@ -20,7 +22,6 @@ state = {
 				naval_base = 10
 			}
 		}
-		add_core_of = BRT
 	}
 	provinces = {
 		6103 9239 11333 11374 

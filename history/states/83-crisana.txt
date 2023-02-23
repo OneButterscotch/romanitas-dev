@@ -5,6 +5,9 @@ state = {
 	state_category = town
 	history = {
 		owner = DAC
+		add_core_of = DAC
+                add_core_of = MOE
+                add_core_of = RME
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1
@@ -13,7 +16,6 @@ state = {
 		victory_points = {
 			6682 1 
 		}
-		add_core_of = DAC
 	}
 	provinces = {
 		696 6682 6697 9640 

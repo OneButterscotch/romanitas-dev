@@ -4,11 +4,11 @@ state = {
 	manpower = 85232
 	state_category = enclave
 	history = {
-		owner = ETH
+		owner = ETI
 		add_core_of = DJI
 		add_core_of = AFA
 		add_core_of = SOM
-		add_core_of = ETH
+		add_core_of = ETI
 		victory_points = {
 			8124 1
 		}
@@ -19,7 +19,7 @@ state = {
 				naval_base = 2
 			}
 		}
-		controller = ETH
+		controller = ETI
 	}
 	provinces = {
 		4985 8124

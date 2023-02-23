@@ -8,10 +8,9 @@ state = {
 		buildings = {
 			infrastructure = 1
 		}
-		owner = NIO
+		owner = AST
 		add_core_of = AST
 		add_core_of = NIO
-		controller = NIO
 	}
 	state_category = pastoral
 	manpower = 50000

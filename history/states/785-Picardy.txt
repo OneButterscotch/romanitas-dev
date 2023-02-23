@@ -12,7 +12,8 @@ state = {
 			11420 5
 		}
 		owner = GAU
-		add_core_of = GAU
+                add_core_of = GAU
+                add_core_of = RME
 		buildings = {
 			infrastructure = 4 
 			industrial_complex = 1

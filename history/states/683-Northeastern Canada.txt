@@ -5,14 +5,13 @@ state = {
 		aluminium = 7.000
 	}
 	history = {
-		owner = NIO
+		owner = JTN
 		buildings = {
 			infrastructure = 1
 
 		}
-		add_core_of = CAN
+		add_core_of = JTN
 		add_core_of = NIO
-		controller = NIO
 	}
 	provinces = {
 		2947 8962 10721 13188 13190 13191 

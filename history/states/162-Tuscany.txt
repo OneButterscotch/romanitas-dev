@@ -30,7 +30,10 @@ state = {
 				naval_base = 4
 			}
 		}
+		add_core_of = ITA
+		add_core_of = TOS
 		add_core_of = RME
+		controller = RME
 	}
 	provinces = {
 		910 1616 3885 6875 6946 6973 9750 9879 9907 11833 11889 

@@ -165,6 +165,10 @@ ELS = {
 	color = rgb { 152 130 191 }
 	color_ui = rgb { 198 169 248 }
 }
+ETH = {
+	color = rgb { 152 130 191 }
+	color_ui = rgb { 198 169 248 }
+}
 GUA = {
 	color = rgb { 72 49 112 }
 	color_ui = rgb { 72 49 112 }
@@ -204,6 +208,10 @@ NZL = {
 PAN = {
 	color = rgb { 152 130 191 }
 	color_ui = rgb { 198 169 248 }
+}
+PER = {
+	color = rgb { 71 113 97 }
+	color_ui = rgb { 92 147 126 }
 }
 PHI = {
 	color = rgb { 230 230 230 }
@@ -323,6 +331,11 @@ XSM = {
 LBA = {
 	color = rgb { 200 180 90 }
 	color_ui = rgb { 200 180 90 }
+}
+
+EGY = {
+	color = rgb { 230 230 70 }
+	color_ui = rgb { 230 230 70 }
 }
 
 PAL = {
@@ -916,6 +929,10 @@ BOH = {
 	color = rgb { 153 0 0 }
 	color_ui = rgb { 153 0 0 }
 }
+AFP = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
 VEN = {
 	color = rgb { 153 0 0 }
 	color_ui = rgb { 153 0 0 }
@@ -1004,7 +1021,7 @@ NUB = {
 	color = rgb { 153 0 0 }
 	color_ui = rgb { 153 0 0 }
 }
-ETH = {
+ETI = {
 	color = rgb { 153 0 0 }
 	color_ui = rgb { 153 0 0 }
 }
@@ -1036,7 +1053,7 @@ FEN = {
 	color = rgb { 153 0 0 }
 	color_ui = rgb { 153 0 0 }
 }
-PER = {
+PRS = {
 	color = rgb { 153 0 0 }
 	color_ui = rgb { 153 0 0 }
 }
@@ -1056,15 +1073,11 @@ BAC = {
 	color = rgb { 153 0 0 }
 	color_ui = rgb { 153 0 0 }
 }
-EGY = {
+AEG = {
 	color = rgb { 153 0 0 }
 	color_ui = rgb { 153 0 0 }
 }
 CYR = {
-	color = rgb { 153 0 0 }
-	color_ui = rgb { 153 0 0 }
-}
-TRP = {
 	color = rgb { 153 0 0 }
 	color_ui = rgb { 153 0 0 }
 }
@@ -1271,46 +1284,6 @@ EST = {
 	color_ui = rgb { 153 0 0 }
 }
 LAT = {
-	color = rgb { 153 0 0 }
-	color_ui = rgb { 153 0 0 }
-}
-TMN = {
-	color = rgb { 153 0 0 }
-	color_ui = rgb { 153 0 0 }
-}
-PTN = {
-	color = rgb { 153 0 0 }
-	color_ui = rgb { 153 0 0 }
-}
-ALP = {
-	color = rgb { 153 0 0 }
-	color_ui = rgb { 153 0 0 }
-}
-LIV = {
-	color = rgb { 153 0 0 }
-	color_ui = rgb { 153 0 0 }
-}
-BLT = {
-	color = rgb { 153 0 0 }
-	color_ui = rgb { 153 0 0 }
-}
-IBE = {
-	color = rgb { 153 0 0 }
-	color_ui = rgb { 153 0 0 }
-}
-BSP = {
-	color = rgb { 153 0 0 }
-	color_ui = rgb { 153 0 0 }
-}
-JUD = {
-	color = rgb { 153 0 0 }
-	color_ui = rgb { 153 0 0 }
-}
-PET = {
-	color = rgb { 153 0 0 }
-	color_ui = rgb { 153 0 0 }
-}
-VNT = {
 	color = rgb { 153 0 0 }
 	color_ui = rgb { 153 0 0 }
 }

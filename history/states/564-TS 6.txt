@@ -10,7 +10,7 @@ state = {
 		aluminium = 4
 	}
 	history = {
-		owner = SIN
+		owner = BYA
 		victory_points = {
 			7835 2 
 		}
@@ -24,7 +24,6 @@ state = {
 		add_core_of = SOV
 		add_core_of = BYA
 		add_core_of = SIN
-		controller = SIN
 	}
 	provinces = {
 		1696 1762 1810 4716 4766 4835 4837 7736 7816 7835 10524 10528 10543 10658 12506 12575 12644 13152

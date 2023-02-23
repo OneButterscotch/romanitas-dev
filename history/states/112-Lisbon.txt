@@ -6,6 +6,9 @@ state = {
 	}
 	history = {
 		owner = LUS
+                add_core_of = LUS
+                add_core_of = HSP
+                add_core_of = RME
 		victory_points = {
 			11805 20 
 		}
@@ -22,7 +25,6 @@ state = {
 				naval_base = 8
 			}
 		}
-		add_core_of = LUS
 	}
 	provinces = {
 		799 3798 3861 6924 11805 

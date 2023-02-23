@@ -1,24 +1,30 @@
-state = {
-	id = 465
-	name = "STATE_465"
-	manpower = 475020
-	state_category = rural
-	history = {
+
+state={
+	id=465
+	name="STATE_465"
+
+	history={
 		owner = ALQ
 		buildings = {
-			infrastructure = 3 
+			infrastructure = 3
 			industrial_complex = 2
 			4285 = {
 				naval_base = 2
+
 			}
+
 		}
 		add_core_of = CAN
 		add_core_of = ALQ
 		controller = ALQ
-	}
-	provinces = {
-		634 1424 4285 4342 4362 4432 7379 12289 
-	}
-	local_supplies = 0.0
 
+	}
+
+	provinces={
+		634 1284 1424 4285 4305 4342 4362 4417 4422 4432 7289 7345 7379 7433 10174 10230 10320 12289 12291 
+	}
+	manpower=475020
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
 }

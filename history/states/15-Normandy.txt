@@ -8,6 +8,9 @@ state = {
 	state_category = city
 	history = {
 		owner = LUG
+		add_core_of = LUG
+                add_core_of = GAU
+                add_core_of = RME
 		victory_points = {
 			9434 10
 		}
@@ -36,7 +39,6 @@ state = {
 				naval_base = 1
 			}
 		}
-		add_core_of = LUG
 	}
 	provinces = {
 		485 539 553 3534 3549 3579 6449 6569 6599 9434 9550 9578 11521 11535 11563 

@@ -11,10 +11,9 @@ state = {
 		buildings = {
 			infrastructure = 1
 		}
-		owner = NIO
+		owner = SIA
 		add_core_of = SIA
 		add_core_of = NIO
-		controller = NIO
 	}
 	manpower = 2000000
 	state_category = rural

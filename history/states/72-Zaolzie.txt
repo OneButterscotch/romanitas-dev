@@ -10,6 +10,8 @@ state = {
 			industrial_complex = 1
 		}
 		add_core_of = LEC
+		add_core_of = RME
+		add_core_of = GRM
 	}
 	provinces = {
 		9551 9567 

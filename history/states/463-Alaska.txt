@@ -2,7 +2,7 @@ state = {
 	id = 463
 	name = "STATE_463"
 	history = {
-		owner = NIO
+		owner = JTN
 		buildings = {
 			infrastructure = 1
 			air_base = 1
@@ -18,8 +18,8 @@ state = {
 		victory_points = {
 			13091 3 
 		}
+		add_core_of = JTN
 		add_core_of = NIO
-		controller = NIO
 	}
 	provinces = {
 		1135 1830 4833 4848 7855 7884 10679 10694 10707 12661 13069 13090 13091 13202 13203 

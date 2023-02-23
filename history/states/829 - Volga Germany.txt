@@ -8,11 +8,13 @@ state = {
 		tungsten = 6
 	}
 	history = {
-		owner = TAU
+		owner = SAR
 		buildings = {
 			infrastructure = 3
 		}
-		add_core_of = TAU
+		add_core_of = SAR
+		add_core_of = VGE
+		add_core_of = RME
 		victory_points = {
 			11523 2
 		}

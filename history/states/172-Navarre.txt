@@ -3,14 +3,15 @@ state = {
 	name = "STATE_172"
 	history = {
 		owner = HSP
-		add_core_of = HSP
+                add_core_of = HSP
+                add_core_of = RME
+		add_core_of = NAV
 		victory_points = {
 			3933 1
 		}
 		buildings = {
 			infrastructure = 3 
 		}
-		controller = HSP
 	}
 	provinces = {
 		932 3737 3931 3933 9857 

@@ -3,6 +3,9 @@ state = {
 	name = "STATE_789"
 	history = {
 		owner = HBA
+                add_core_of = HBA
+                add_core_of = HSP
+                add_core_of = RME
 		victory_points = {
 			875 3
 		}
@@ -11,7 +14,6 @@ state = {
 			industrial_complex = 1
 
 		}
-		add_core_of = HBA
 	}
 	provinces = {
 		875 879 950 1090 1192 3810 3871 4095 6744 7198 10111 12083 

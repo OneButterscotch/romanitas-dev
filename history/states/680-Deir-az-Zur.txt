@@ -4,7 +4,11 @@ state = {
 	manpower = 324110
 	state_category = wasteland
 	history = {
-		owner = MSP
+		owner = SYR
+		add_core_of = SYR
+                add_core_of = RME
+                add_core_of = PRS
+                add_core_of = MSP
 		victory_points = {
 			3942 1
 		}
@@ -17,7 +21,6 @@ state = {
 		buildings = {
 			infrastructure = 1
 		}
-		add_core_of = MSP
 	}
 	provinces = {
 		901 1549 1578 1606 1634 2013 3942 6883 7513 10383 10882 12316 12442 

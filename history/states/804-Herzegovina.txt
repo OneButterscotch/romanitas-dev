@@ -8,13 +8,14 @@ state = {
 	}
 	history = {
 		owner = ILY
+                add_core_of = ILY
+                add_core_of = RME
 		victory_points = {
 			9894 3
 		}
 		buildings = {
 			infrastructure = 2
 		}
-		add_core_of = ILY
 	}
 	provinces = {
 		953 6942 9894 11845 

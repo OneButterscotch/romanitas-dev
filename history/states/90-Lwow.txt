@@ -14,10 +14,12 @@ state = {
 			3458 5
 		}
 		owner = LEC
+                add_core_of = LEC
+                add_core_of = RME
+                add_core_of = GRM
 		buildings = {
 			infrastructure = 3
 		}
-		add_core_of = LEC
 	}
 	provinces = {
 		562 3458 3497 3586 6416 11430 11532 

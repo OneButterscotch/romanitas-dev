@@ -15,11 +15,13 @@ state = {
 			6464 5
 		}
 		owner = LEC
+                add_core_of = LEC
+                add_core_of = RME
+                add_core_of = GRM
 		buildings = {
 			infrastructure = 3 
 			industrial_complex = 1
 		}
-		add_core_of = LEC
 	}
 	local_supplies = 0.0
 

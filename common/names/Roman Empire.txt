@@ -1,0 +1,18 @@
+RME = {
+	male = {
+		names = {
+			"" 
+		}
+	}
+	female = {
+		names = {
+			"" 
+		}
+	}
+	surnames = {
+		"" 
+	}
+	callsigns = {
+		"" 
+	}
+}

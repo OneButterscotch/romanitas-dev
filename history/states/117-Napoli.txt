@@ -22,7 +22,10 @@ state = {
 				naval_base = 6
 			}
 		}
+		add_core_of = ITA
+		add_core_of = TTS
 		add_core_of = RME
+		controller = RME
 	}
 	provinces = {
 		819 851 955 3958 3968 6972 9826 11803 9856

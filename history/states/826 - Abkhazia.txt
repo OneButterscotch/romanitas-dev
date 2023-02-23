@@ -2,7 +2,9 @@ state = {
 	id = 826
 	name = "STATE_826"
 	history = {
-		owner = IBE
+		owner = GEO
+                add_core_of = GEO
+                add_core_of = RME
 		victory_points = {
 			11617 1 
 		}
@@ -12,7 +14,6 @@ state = {
 			
 
 		}
-		add_core_of = IBE
 	}
 	provinces = {
 		672 11599 11617 11647 

@@ -4,14 +4,14 @@ state = {
 	manpower = 1040121
 	state_category = pastoral
 	history = {
-		owner = ETH
+		owner = ETI
 		add_core_of = SUD
-		add_core_of = ETH
+		add_core_of = ETI
 		buildings = {
 			infrastructure = 2
 
 		}
-		controller = ETH
+		controller = ETI
 	}
 	provinces = {
 		2096 10859 10877 12800 

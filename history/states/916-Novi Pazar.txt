@@ -1,0 +1,23 @@
+state={
+	id=910
+	name="STATE_910"
+
+        history={
+		owner = YUG
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = YUG
+		add_core_of = SER
+
+	}
+
+	provinces={
+		3922 
+	}
+	manpower=6000
+        state_category=rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

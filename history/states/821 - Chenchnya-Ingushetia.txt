@@ -7,14 +7,15 @@ state = {
 		oil = 9
 	}
 	history = {
-		owner = IBE
+		owner = GEO
+                add_core_of = GEO
+                add_core_of = RME
 		buildings = {
 			infrastructure = 2
 		}
 		victory_points = {
 			3672 5 
 		}
-		add_core_of = IBE
 	}
 	provinces = {
 		666 670 1455 3667 3672 6689

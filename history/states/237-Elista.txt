@@ -4,11 +4,12 @@ state = {
 	manpower = 169620
 	state_category = rural
 	history = {
-		owner = IBE
+		owner = KHA
+                add_core_of = KHA
+                add_core_of = RME
 		buildings = {
 			infrastructure = 1
 		}
-		add_core_of = IBE
 		victory_points = {
 			11724 1
 		}

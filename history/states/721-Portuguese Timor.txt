@@ -4,7 +4,7 @@ state = {
 	manpower = 455604
 	state_category = pastoral
 	history = {
-		owner = NIO
+		owner = INS
 		buildings = {
 			infrastructure = 2
 			12190 ={
@@ -12,7 +12,7 @@ state = {
 			}
 		}
 		add_core_of = NIO
-		controller = NIO
+		add_core_of = INS
 	}
 	provinces = {
 		1326 12178 12190 12206 13001 

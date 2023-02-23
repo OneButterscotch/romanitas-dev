@@ -6,7 +6,7 @@ state = {
 	}
 	state_category = small_island
 	history = {
-		owner = NIO
+		owner = TAH
 		add_core_of = TAH
 		add_core_of = NIO
 		victory_points = {
@@ -29,7 +29,6 @@ state = {
 				naval_base = 1
 			}
 		}
-		controller = NIO
 	}
 	provinces = {
 		1237 1263 4231 4247 4268 7264 10160 12120 12132 

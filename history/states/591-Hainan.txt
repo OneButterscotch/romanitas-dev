@@ -4,7 +4,7 @@ state = {
 	manpower = 4350000
 	state_category = town
 	history = {
-		owner = NIO
+		owner = GXC
 		add_core_of = GXC
 		add_core_of = CHI
 		add_core_of = PRC
@@ -20,7 +20,6 @@ state = {
 			}
 
 		}
-		controller = NIO
 	}
 	provinces = {
 		994 1038 1070 4160 7135 11963 11990 

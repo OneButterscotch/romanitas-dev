@@ -5,7 +5,9 @@ state = {
 	state_category = wasteland
 	history = {
 		owner = MAU
-		add_core_of = MAU
+		add_core_of = AFP
+                add_core_of = MAU
+                add_core_of = RME
 		victory_points = {
 			4108 1 
 		}

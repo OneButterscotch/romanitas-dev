@@ -7,7 +7,7 @@ state = {
 	}
 	state_category = town
 	history = {
-		owner = NIO
+		owner = JTN
 		buildings = {
 			infrastructure = 3 
 			arms_factory = 1
@@ -18,12 +18,11 @@ state = {
 				naval_base = 5
 			}
 		}
-		add_core_of = CAN
-		add_core_of = NIO
+		add_core_of = JTN
+                add_core_of = NIO
 		victory_points = {
 			1408 15 
 		}
-		controller = NIO
 	}
 	provinces = {
 		1323 1393 1408 1737 1858 4343 4385 4413 4428 4870 4877 7677 7753 7761 7820 7853 10228 10258 10273 10644 12231 12578 

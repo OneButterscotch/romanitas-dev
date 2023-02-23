@@ -8,11 +8,13 @@ state = {
 			3583 5
 		}
 		owner = BOH
+                add_core_of = BOH
+                add_core_of = RME
+                add_core_of = GRM
 		buildings = {
 			infrastructure = 4
 			arms_factory = 1
 		}
-		add_core_of = BOH
 	}
 	provinces = {
 		421 3414 3583 6485

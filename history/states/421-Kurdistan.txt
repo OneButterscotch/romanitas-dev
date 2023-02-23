@@ -4,7 +4,7 @@ state = {
 	manpower = 780278
 	state_category = rural
 	history = {
-		owner = PER
+		owner = PRS
 		victory_points = {
 			4943 5
 		}
@@ -16,8 +16,8 @@ state = {
 		}
 		add_core_of = PER
 		add_core_of = KUR
-		add_core_of = PER
-		controller = PER
+		add_core_of = PRS
+		controller = PRS
 	}
 	provinces = {
 		829 4943 5050 5098 9816 10774 12773 

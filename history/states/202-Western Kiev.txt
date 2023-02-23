@@ -9,6 +9,8 @@ state = {
 	state_category = city
 	history = {
 		owner = RTH
+                add_core_of = RTH
+                add_core_of = RME
 		victory_points = {
 			525 25
 		}
@@ -19,7 +21,6 @@ state = {
 			fuel_silo = 1
 			air_base = 8
 		}
-		add_core_of = RTH
 	}
 	provinces = {
 		489 504 525 582 3494 3543 6497 9465 9543 9568 11557 

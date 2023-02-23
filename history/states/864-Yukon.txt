@@ -5,10 +5,9 @@ state = {
 		3606 7869 7891 
 	}
 	history = {
-		owner = NIO
-		add_core_of = CAN
+		owner = JTN
+		add_core_of = JTN
 		add_core_of = NIO
-		controller = NIO
 	}
 	manpower = 10
 	state_category = wasteland

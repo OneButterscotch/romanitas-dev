@@ -4,7 +4,12 @@ state = {
 	manpower = 933142
 	state_category = rural
 	history = {
-		owner = JUD
+		owner = PAL
+                add_core_of = PAL
+		add_core_of = SYR
+                add_core_of = RME
+                add_core_of = PRS
+                add_core_of = MSP
 		buildings = {
 			infrastructure = 3 
 			industrial_complex = 1
@@ -22,7 +27,7 @@ state = {
 		victory_points = {
 			1065 1 
 		}
-		add_core_of = JUD
+
 	}
 	provinces = {
 		1015 1065 1086 1201 4088 4206 7107 7176 11970 1

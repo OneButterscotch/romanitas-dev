@@ -9,13 +9,15 @@ state = {
 	}
 	history = {
 		owner = GTR
+		add_core_of = GTR
+                add_core_of = GAU
+                add_core_of = RME
 		buildings = {
 			infrastructure = 2
 		}
 		victory_points = {
 			3768 1 
 		}
-		add_core_of = GTR
 	}
 	provinces = {
 		762 780 3589 3768 6784 11713 

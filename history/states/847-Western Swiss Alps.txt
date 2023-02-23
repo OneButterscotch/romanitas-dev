@@ -4,15 +4,17 @@ state={
 	name="STATE_847"
 	manpower = 178429
 	state_category = pastoral
-	#resources={
-	#}
+	resources={
+	}
 	history={
 		owner = RHN
+                add_core_of = RHN
+                add_core_of = RME
+                add_core_of = GRM
 		buildings = {
 			infrastructure = 1 
 			industrial_complex = 1
 		}
-		add_core_of = RHN
 	}
 	provinces={
 		636 9587 3612 9618  

@@ -1,24 +1,29 @@
-state = {
-	id = 442
-	name = "STATE_442"
-	manpower = 4684400
-	state_category = rural
-	history = {
+
+state={
+	id=442
+	name="STATE_442"
+
+	history={
 		victory_points = {
-			12763 3
+			12763 3 
 		}
 		owner = BAC
 		buildings = {
 			infrastructure = 2
 			air_base = 3
+
 		}
 		add_core_of = PAK
 		add_core_of = BAC
 		controller = BAC
-	}
-	provinces = {
-		1978 4558 4998 12717 12763 
-	}
-	local_supplies = 5.0
 
+	}
+
+	provinces={
+		1978 2084 2084 4558 4998 12717 12763 
+	}
+	manpower=4684400
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=5.000
 }

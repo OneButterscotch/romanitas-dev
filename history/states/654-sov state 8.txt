@@ -1,24 +1,28 @@
-state = {
-	id = 654
-	name = "STATE_654"
-	manpower = 153510
-	state_category = wasteland
-	history = {
-		owner = SIN
+
+state={
+	id=654
+	name="STATE_654"
+
+	history={
+		owner = TAN
 		buildings = {
 			infrastructure = 1
+
 		}
-		add_core_of = SOV
+		add_core_of = TAN
 		add_core_of = ALT
 		add_core_of = SIN
 		victory_points = {
 			4800 1 
 		}
-		controller = SIN
-	}
-	provinces = {
-		4781 4800 10531 10713 12509 
-	}
-	local_supplies = 2.0
 
+	}
+
+	provinces={
+		1702 1779 4781 4800 7822 10531 10713 12509 12528 
+	}
+	manpower=153510
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=2.000
 }

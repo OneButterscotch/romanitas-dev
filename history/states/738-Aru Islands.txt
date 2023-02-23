@@ -2,8 +2,8 @@ state = {
 	id = 738
 	name = "STATE_738"
 	history = {
-		owner = NIO
-		add_core_of = INS
+		owner = PNG
+		add_core_of = PNG
 		add_core_of = NIO
 		buildings = {
 			infrastructure = 1
@@ -15,7 +15,6 @@ state = {
 
 
 		}
-		controller = NIO
 	}
 	provinces = {
 		4579 

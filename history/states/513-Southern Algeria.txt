@@ -4,8 +4,9 @@ state = {
 	manpower = 811486
 	state_category = wasteland
 	history = {
-		owner = MAU
-		add_core_of = MAU
+		owner = AFP
+		add_core_of = AFP
+                add_core_of = RME
 		victory_points = {
 			12034 1 
 		}

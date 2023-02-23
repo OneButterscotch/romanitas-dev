@@ -7,14 +7,15 @@ state = {
 		victory_points = {
 			12857 1
 		}
-		owner = MAU
-		add_core_of = MAU
+		owner = RME
+		add_core_of = MOR
 		buildings = {
 			infrastructure = 1
 			12857 = {
 				naval_base = 1
 			}
 		}
+		controller = RME
 	}
 	provinces = {
 		12857

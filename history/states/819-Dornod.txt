@@ -13,6 +13,7 @@ state = {
 			12557 1 
 		}
 		add_core_of = MON
+		add_core_of = SIN
 	}
 	manpower = 88250
 	buildings_max_level_factor = 1.000

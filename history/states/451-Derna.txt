@@ -5,6 +5,9 @@ state = {
 	state_category = wasteland
 	history = {
 		owner = CYR
+		add_core_of = CYR
+                add_core_of = TRI
+                add_core_of = RME
 		victory_points = {
 			1130 5 
 		}
@@ -15,7 +18,6 @@ state = {
 				naval_base = 6
 			}
 		}
-		add_core_of = CYR
 	}
 	provinces = {
 		1130 1204 4136 4151 7082 9992 10120 12094 

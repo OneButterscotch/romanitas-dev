@@ -20,11 +20,11 @@ state = {
 		victory_points = {
 			13240 2 
 		}
-		owner = ETH
+		owner = ETI
 		add_core_of = ETH
 		add_core_of = AFA
-		add_core_of = ETH
-		controller = ETH
+		add_core_of = ETI
+		controller = ETI
 	}
 	provinces = {
 		5041 13236 13240 

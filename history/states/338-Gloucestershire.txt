@@ -8,6 +8,8 @@ state = {
 	state_category = city
 	history = {
 		owner = BRT
+                add_core_of = BRT
+                add_core_of = RME
 		victory_points = {
 			3369 5 
 		}
@@ -20,7 +22,6 @@ state = {
 				naval_base = 2
 			}
 		}
-		add_core_of = BRT
 	}
 	provinces = {
 		3369 6221 6351 6378 9484 11471 

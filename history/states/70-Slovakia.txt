@@ -8,6 +8,8 @@ state = {
 	}
 	history = {
 		owner = PNN
+		add_core_of = PNN
+                add_core_of = RME
 		victory_points = {
 			9692 10
 		}
@@ -20,7 +22,6 @@ state = {
 			arms_factory = 2
 			air_base = 3
 		}
-		add_core_of = PNN
 	}
 	provinces = {
 		541 3484 3537 9539 9692 11522 11539 

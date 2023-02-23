@@ -4,7 +4,9 @@ state = {
 	manpower = 647208
 	state_category = rural
 	history = {
-		owner = IBE
+		owner = KHA
+                add_core_of = KHA
+                add_core_of = RME
 		victory_points = {
 			9753 3 
 		}
@@ -12,7 +14,6 @@ state = {
 			infrastructure = 2
 			air_base = 1
 		}
-		add_core_of = IBE
 	}
 	provinces = {
 		618 757 3435 3461 3487 6486 6516 6620 9440 9455 9592 9753 11429 11579 11736 

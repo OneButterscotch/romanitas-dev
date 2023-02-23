@@ -5,10 +5,11 @@ state = {
 	state_category = town
 	history = {
 		owner = VND
+                add_core_of = VND
+		add_core_of = RME
 		buildings = {
 			infrastructure = 3 
 		}
-		add_core_of = VND
 		victory_points = {
 			6269 3
 		}

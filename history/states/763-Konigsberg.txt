@@ -4,7 +4,9 @@ state = {
 	manpower = 2140234
 	state_category = city
 	history = {
-		owner = PTN
+		owner = DNZ
+                add_core_of = DNZ
+                add_core_of = RME
 		victory_points = {
 			6332 10 
 		}
@@ -22,7 +24,8 @@ state = {
 			}
 			air_base = 6
 		}
-		add_core_of = PTN
+		add_core_of = GRM
+		add_core_of = LEC
 	}
 	provinces = {
 		281 348 395 3384 6332 11265

@@ -20,6 +20,7 @@ state = {
 			}
 		}
 		add_core_of = ING
+		add_core_of = RME
 	}
 	provinces = {
 		79 149 3151 6174 11068 

@@ -4,7 +4,9 @@ state = {
 	manpower = 1331211
 	state_category = town
 	history = {
-		owner = ING
+		owner = VND
+                add_core_of = VND
+		add_core_of = RME
 		victory_points = {
 			6245 10 
 		}
@@ -12,7 +14,6 @@ state = {
 			infrastructure = 3 
 			air_base = 2
 		}
-		add_core_of = ING
 	}
 	provinces = {
 		85 150 344 3143 3176 3323 6022 6122 6203 6245 6346 9046 9144 9256 11084 11154 11250 

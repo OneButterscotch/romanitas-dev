@@ -7,6 +7,10 @@ state = {
 			6626 3
 		}
 		owner = RME
+		add_core_of = ITA
+		add_core_of = YUG
+		add_core_of = SLV
+		add_core_of = LBV
 		add_core_of = RME
 		buildings = {
 			infrastructure = 1
@@ -17,6 +21,7 @@ state = {
 			}
 
 		}
+		controller = RME
 	}
 	provinces = {
 		599 6626 11595 
