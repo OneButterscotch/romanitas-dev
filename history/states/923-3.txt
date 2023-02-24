@@ -1,10 +1,10 @@
 state={
-	id=911
-	name="STATE_911"
+	id=923
+	name="STATE_923"
 
 	history={
 		owner = SIK
-                add_core_of = SIK
+    	add_core_of = SIK
 		buildings = {
 			infrastructure = 1
 

@@ -1,11 +1,12 @@
-
 state={
-	id=910
-	name="STATE_910"
+	id=923
+	name="STATE_923"
 
 	history={
-		add_core_of = BRM
-		owner = BRM
+		owner = KSH
+        add_core_of = KSH
+        add_core_of = SIN
+        add_core_of = SIK
 		buildings = {
 			infrastructure = 1
 
@@ -14,7 +15,7 @@ state={
 	}
 
 	provinces={
-		4210 7400 7909 
+		5042 
 	}
 	manpower=60000
 	buildings_max_level_factor=1.000
