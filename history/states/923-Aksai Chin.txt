@@ -4,18 +4,18 @@ state={
 
 	history={
 		owner = SIK
-    	add_core_of = SIK
+        add_core_of = SIK
 		buildings = {
 			infrastructure = 1
 
 		}
-		add_core_of = AFG
 
-	}	
-	provinces={
-		7519 
 	}
-	manpower=30000
+
+	provinces={
+		5042 
+	}
+	manpower=60000
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 	local_supplies=0.000
