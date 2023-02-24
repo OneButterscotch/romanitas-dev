@@ -588,7 +588,7 @@
  STATE_585:2 "Navoi"
  STATE_586:0 "Alma-Ata"
  STATE_587:0 "Ust Urt"
- STATE_588:0 "Semipalatinsk"
+ STATE_588:0 "Alash-kala" #Was Semipalatinsk
  STATE_589:0 "Ayaguz"
  STATE_590:0 "Akmolinsk"
  STATE_591:0 "Hainan"
@@ -921,3 +921,9 @@
  STATE_918: "Cyrenaican Desert"
  STATE_919: "Novi Pazar"
  STATE_920: "West Macedonia"
+ STATE_921: "Kachin"
+ STATE_922: "Kengtung"
+ STATE_923: "Bazza'i"
+ STATE_924: "Aksai Chin"
+ STATE_925: "Tashkurgan"
+ STATE_926: "Markokol" #After a Lake
