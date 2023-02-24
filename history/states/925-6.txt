@@ -4,21 +4,22 @@ state={
 
 	history={
 		owner = SIK
-                add_core_of = SIK
-		add_core_of = KAZ
+        add_core_of = SIK
 		buildings = {
-			infrastructure = 2
+			infrastructure = 1
 
 		}
 		add_core_of = SOV
+		add_core_of = TAJ
+		add_core_of = BUK
 
 	}
 
 	provinces={
-		1749 1818 1864 4674 10610 12427 12564 
+		8027 10417 12805 
 	}
-	manpower=50000
+	manpower=30000
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=wasteland
 	local_supplies=0.000
 }
