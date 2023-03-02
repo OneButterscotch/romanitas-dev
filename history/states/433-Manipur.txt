@@ -9,13 +9,13 @@ state = {
 		victory_points = {
 			2054 1
 		}
-		owner = IND
+		owner = RAJ
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 		}
-		add_core_of = IND
-		controller = IND
+		add_core_of = RAJ
+		###controller = IND
 	}
 	provinces = {
 		1199 1908 2054 4149 4915 4971 4984 7905 7998 10847 10866 12041 12718 12743 12829 12844 12876 12886 

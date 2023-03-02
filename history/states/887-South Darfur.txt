@@ -4,13 +4,13 @@ state = {
 	manpower = 302020
 	state_category = wasteland
 	history = {
-		owner = GAE
+		owner = NUB
 		add_core_of = SUD
-		add_core_of = GAE
+		add_core_of = NUB
 		buildings = {
 			infrastructure = 1
 		}
-		controller = GAE
+		######controller = GAE
 	}
 	provinces = {
 		1960 5060 10857 

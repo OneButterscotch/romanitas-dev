@@ -4,16 +4,16 @@ state = {
 	manpower = 661102
 	state_category = pastoral
 	history = {
-		owner = NUB
-		add_core_of = SUD
+		owner = ETI
+		add_core_of = ETI
 		add_core_of = NUB
 		buildings = {
 			infrastructure = 1
 		}
-		controller = NUB
+		###controller = NUB
 	}
 	provinces = {
-		1914 4918 10743 10784 12862 12887 
+		1914 2088 4918 10743 10784 12862 12887 
 	}
 	buildings_max_level_factor = 1.000
 	local_supplies = 0.000

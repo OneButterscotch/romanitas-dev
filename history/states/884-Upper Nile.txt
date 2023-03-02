@@ -11,7 +11,7 @@ state = {
 			infrastructure = 2
 
 		}
-		controller = ETI
+		###controller = ETI
 	}
 	provinces = {
 		2096 10859 10877 12800 

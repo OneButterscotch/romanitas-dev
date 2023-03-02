@@ -7,7 +7,7 @@ state = {
 		oil = 3
 	}
 	history = {
-		owner = IND
+		owner = RAJ
 		victory_points = {
 			9975 1 
 		}
@@ -18,8 +18,8 @@ state = {
 				naval_base = 2
 			}
 		}
-		add_core_of = IND
-		controller = IND
+		add_core_of = RAJ
+		###controller = IND
 	}
 	provinces = {
 		1061 1103 1144 1190 4064 4090 4132 4187 7020 7150 7165 7207 9975 10118 11952 12037 12092 

@@ -1,0 +1,18 @@
+state={
+	id=912
+	name="STATE_912"
+        history = {
+		owner = ARB
+		add_core_of = SAU
+		add_core_of = ARB
+		###controller = ARB
+	}
+	provinces={
+		1631 4440 4603 4951 10383 
+	}
+	manpower=4
+        state_category=wasteland
+        impassable = yes
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

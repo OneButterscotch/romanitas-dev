@@ -7,7 +7,7 @@ state = {
 	}
 	state_category = city
 	history = {
-		owner = ARU
+		owner = ARA
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1
@@ -17,7 +17,7 @@ state = {
 				naval_base = 4
 			}
 		}
-		add_core_of = ECU
+		add_core_of = ARA
 		add_core_of = ARU
 		victory_points = {
 			12798 5
@@ -25,7 +25,7 @@ state = {
 		victory_points = {
 			8252 1
 		}
-		controller = ARU
+		######controller = ARU
 	}
 	provinces = {
 		5051 5120 8047 8075 8252 10888 11020 12798 

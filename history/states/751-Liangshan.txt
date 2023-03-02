@@ -4,8 +4,7 @@ state={
 	name="STATE_751"
 
 	history={
-		owner = SIN
-		add_core_of = CHI
+		owner = PRC
 		add_core_of = PRC
 		add_core_of = SIN
 		buildings = {
@@ -18,12 +17,12 @@ state={
 		victory_points = {
 			7294 1 
 		}
-		controller = SIN
+		###controller = SIN
 
 	}
 
 	provinces={
-		2067 10841 12141 12819 
+		2067 7294 10841 12141 12819 
 	}
 	manpower=300000
 	buildings_max_level_factor=1.000

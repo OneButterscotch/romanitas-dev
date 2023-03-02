@@ -4,7 +4,7 @@ state={
 	name="STATE_881"
 
 	history={
-		owner = SAR
+		owner = KAZ
 		add_core_of = KAZ
 		add_core_of = SOV
 		add_core_of = SAR
@@ -12,7 +12,7 @@ state={
 			infrastructure = 1
 
 		}
-		controller = SAR
+		###controller = SAR
 
 	}
 

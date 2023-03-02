@@ -4,17 +4,17 @@ state = {
 	manpower = 781311
 	state_category = rural
 	history = {
-		owner = ARU
+		owner = HRP
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 		}
-		add_core_of = ARG
+		add_core_of = HRP
 		add_core_of = ARU
 		victory_points = {
 			8216 1 
 		}
-		controller = ARU
+		###controller = ARU
 	}
 	provinces = {
 		2136 2224 8195 8216 8253 11001 12928 12978 

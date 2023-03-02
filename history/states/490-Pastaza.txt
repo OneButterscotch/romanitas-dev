@@ -1,22 +1,26 @@
-state = {
-	id = 490
-	name = "STATE_490"
-	manpower = 70020
-	state_category = pastoral
-	history = {
-		owner = ARU
+
+state={
+	id=490
+	name="STATE_490"
+
+	history={
+		owner = ARA
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 			air_base = 1
-		}
-		add_core_of = PRU
-		add_core_of = ARU
-		controller = ARU
-	}
-	provinces = {
-		8149 10942 
-	}
-	local_supplies = 6.0
 
+		}
+		add_core_of = ARA
+		add_core_of = ARU
+
+	}
+
+	provinces={
+		8149 10942 12770 12825 12869 13083 
+	}
+	manpower=70020
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=6.000
 }

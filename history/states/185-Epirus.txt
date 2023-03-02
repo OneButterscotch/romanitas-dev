@@ -17,7 +17,7 @@ state={
 		victory_points = {
 			1205 1 
 		}
-		owner = GRA
+		owner = EPY
 		add_core_of = EPY
 		add_core_of = GRA
 		add_core_of = MAC
@@ -36,7 +36,7 @@ state={
 	}
 
 	provinces={
-		841 1106 3914 3980 9805 9837 9916 10203 12001 
+		1106 3914 9805 9916 10203 12001 
 	}
 	manpower=760900
 	buildings_max_level_factor=1.000

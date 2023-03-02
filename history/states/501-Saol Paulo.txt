@@ -4,7 +4,7 @@ state = {
 	manpower = 6199200
 	state_category = city
 	history = {
-		owner = GAR
+		owner = BRA
 		add_core_of = BRA
 		add_core_of = GAR
 		buildings = {
@@ -21,7 +21,7 @@ state = {
 		victory_points = {
 			5112 1
 		}
-		controller = GAR
+		######controller = GAR
 	}
 	provinces = {
 		1583 5186 7636 10513 10947 10994 11003 11008 12937 12972 10432 5112 5167 7553

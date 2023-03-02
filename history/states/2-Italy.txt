@@ -22,7 +22,7 @@ state = {
 		add_core_of = ITA
 		add_core_of = PAP
 		add_core_of = RME
-		controller = RME
+		###controller = RME
 	}
 	provinces = {
 		923 6862 9794 9904 11751 11846 11882

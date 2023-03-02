@@ -7,7 +7,7 @@ state = {
 		chromium = 6
 	}
 	history = {
-		owner = IND
+		owner = RAJ
 		victory_points = {
 			8087 1
 		}
@@ -16,8 +16,8 @@ state = {
 			industrial_complex = 1
 			air_base = 3
 		}
-		add_core_of = IND
-		controller = IND
+		add_core_of = RAJ
+		###controller = IND
 	}
 	provinces = {
 		1275 1317 1359 4280 4472 5019 5063 5104 8087 10311 10324 10511 11950 12114 12226 

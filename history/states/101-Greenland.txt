@@ -14,7 +14,7 @@ state = {
 		add_core_of = DEN
 		add_core_of = RME
 		add_core_of = THM
-		controller = THM
+		###controller = THM
 	}
 	provinces = {
 10245 10636 12512 13058 13066 	}

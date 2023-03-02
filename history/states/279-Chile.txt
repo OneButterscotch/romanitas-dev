@@ -1,38 +1,45 @@
-state = {
-	id = 279
-	name = "STATE_279"
-	manpower = 3935146
-	state_category = large_city
-	resources = {
-		steel = 16
+
+state={
+	id=279
+	name="STATE_279"
+	resources={
+		steel=16.000
 	}
-	history = {
-		owner = ARU
+
+	history={
+		owner = HRP
 		buildings = {
-			infrastructure = 3 
+			infrastructure = 3
 			arms_factory = 1
 			industrial_complex = 7
 			air_base = 3
 			8222 = {
 				naval_base = 5
+
 			}
 			5121 = {
 				naval_base = 1
+
 			}
 			650 = {
 				bunker = 1
+
 			}
+
 		}
-		add_core_of = CHL
+		add_core_of = HRP
 		add_core_of = ARU
 		victory_points = {
-			650 10
+			650 10 
 		}
-		controller = ARU
-	}
-	provinces = {
-		650 5121 5169 5191 8194 8222 8229 8251 12920 12954 12984 
-	}
-	local_supplies = 0.0
 
+	}
+
+	provinces={
+		650 5121 5169 5191 5192 5228 8194 8222 8229 8251 11000 12914 12920 12954 12984 
+	}
+	manpower=3935146
+	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=0.000
 }

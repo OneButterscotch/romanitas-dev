@@ -4,16 +4,15 @@ state = {
 	manpower = 286410
 	state_category = enclave
 	history = {
-		owner = IND
+		owner = RAJ
 		add_core_of = RAJ
-		add_core_of = IND
 		buildings = {
 			infrastructure = 3 
 			10149 = {
 				naval_base = 1
 			}
 		}
-		controller = IND
+		###controller = IND
 	}
 	provinces = { 10149 }
 	local_supplies = 0.0

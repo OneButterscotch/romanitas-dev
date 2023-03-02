@@ -4,7 +4,7 @@ state = {
 	manpower = 1391819
 	state_category = town
 	history = {
-		owner = SAR
+		owner = TAT
 		victory_points = {
 			11225 3 
 		}
@@ -13,9 +13,9 @@ state = {
 			arms_factory = 2
 			air_base = 1
 		}
-		add_core_of = SOV
+		add_core_of = TAT
 		add_core_of = SAR
-		controller = SAR
+		###controller = SAR
 	}
 	provinces = {
 		298 338 339 365 393 497 3216 6275 6404 9243 9271 9299 9365 9391 11225 11256 11281 11348 11377 

@@ -1,0 +1,21 @@
+state={
+	id=922
+	name="STATE_926"
+
+        history={
+		owner = GRM
+		add_core_of = GRM
+		add_core_of = RME
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces={
+		3474 6421 6594 11404 11417 13116 
+	}
+	manpower=12865
+        state_category=rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

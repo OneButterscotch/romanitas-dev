@@ -19,7 +19,7 @@ state = {
 		add_core_of = LBV
 		add_core_of = RME
 		add_claim_by = AUS
-		controller = RME
+		###controller = RME
 	}
 	provinces = {
 		656 6675 9630 11598 11615

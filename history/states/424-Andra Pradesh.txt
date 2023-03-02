@@ -4,13 +4,13 @@ state = {
 	manpower = 15791700
 	state_category = rural
 	history = {
-		owner = IND
+		owner = RAJ
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 		}
-		add_core_of = IND
-		controller = IND
+		add_core_of = RAJ
+		###controller = IND
 	}
 	provinces = {
 		1228 1344 1430 4321 4365 4414 7297 7310 7340 10152 10296 10756 10897 12180 12779 

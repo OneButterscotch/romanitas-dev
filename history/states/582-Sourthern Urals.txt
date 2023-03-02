@@ -6,17 +6,17 @@ state = {
 		oil = 6.000
 	}
 	history = {
-		owner = SAR
+		owner = TAT
 		buildings = {
 			infrastructure = 3 
 
 		}
-		add_core_of = SOV
+		add_core_of = TAT
 		add_core_of = SAR
 		victory_points = {
 			10256 3
 		}
-		controller = SAR
+		###controller = SAR
 	}
 	provinces = {
 		1334 1406 4215 4261 4265 4311 4383 4411 7281 7328 7373 7401 10185 10196 10224 10256 12200 
