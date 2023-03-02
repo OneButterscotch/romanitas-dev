@@ -17,7 +17,7 @@ state = {
 			}
 			
 		}
-		controller = AFD
+		###controller = AFD
 	}
 	provinces = { 
 		11014 12941

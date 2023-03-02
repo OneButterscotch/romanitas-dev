@@ -16,7 +16,7 @@ state = {
 		victory_points = {
 			1010 3
 		}
-		controller = SIN
+		###controller = SIN
 	}
 	manpower = 1500000
 	state_category = pastoral

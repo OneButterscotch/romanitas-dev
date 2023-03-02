@@ -10,7 +10,7 @@ state = {
 		}
 		add_core_of = BRA
 		add_core_of = TUP
-		controller = TUP
+		###controller = TUP
 	}
 	provinces = {
 		2142 2147 2204 8175 11010 12939 

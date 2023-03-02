@@ -22,7 +22,7 @@ state = {
 		victory_points = {
 			2008 10
 		}
-		controller = MXA
+		###controller = MXA
 	}
 	provinces = {
 		1965 2008 2011 7913 12755 

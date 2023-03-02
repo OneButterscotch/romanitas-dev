@@ -8,7 +8,7 @@ state = {
 		owner = ABE
 		add_core_of = CAN
 		add_core_of = ABE
-		controller = ABE
+		###controller = ABE
 	}
 	manpower = 110000
 	state_category = rural

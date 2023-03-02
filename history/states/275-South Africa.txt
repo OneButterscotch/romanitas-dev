@@ -20,7 +20,7 @@ state = {
 		}
 		add_core_of = SAF
 		add_core_of = AFD
-		controller = AFD
+		###controller = AFD
 	}
 	provinces = {
 		1688 2171 2213 5106 5217 5231 10400 10566 10668 12064 12648 

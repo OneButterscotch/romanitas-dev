@@ -18,7 +18,7 @@ state = {
 		victory_points = {
 			12019 1
 		}
-		controller = SIN
+		###controller = SIN
 	}
 	local_supplies = 0.0
 

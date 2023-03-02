@@ -6,7 +6,7 @@ state={
 	history={
 		owner = ABE
 		add_core_of = ABE
-		controller = ABE
+		###controller = ABE
 
 	}
 

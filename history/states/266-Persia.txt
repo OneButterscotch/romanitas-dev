@@ -16,7 +16,7 @@ state = {
 		}
 		add_core_of = PER
 		add_core_of = PRS
-		controller = PRS
+		###controller = PRS
 	}
 	provinces = {
 		4580 7602 10385 10768 10837 

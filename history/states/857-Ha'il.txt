@@ -8,7 +8,7 @@ state = {
 		owner = ARB
 		add_core_of = SAU
 		add_core_of = ARB
-		controller = ARB
+		###controller = ARB
 	}
 	manpower = 5000
 	state_category = pastoral

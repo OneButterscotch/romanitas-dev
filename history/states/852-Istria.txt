@@ -21,7 +21,7 @@ state = {
 		add_core_of = LBV
 		add_core_of = RME
 		set_province_name = { id = 11564 name = VICTORY_POINTS_11564_ITA }
-		controller = RME
+		###controller = RME
 	}
 	provinces = {
 		11564 11735

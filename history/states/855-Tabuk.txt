@@ -5,7 +5,7 @@ state = {
 		owner = ARB
 		add_core_of = SAU
 		add_core_of = ARB
-		controller = ARB
+		###controller = ARB
 	}
 	provinces = {
 		1033 2027 2095 5027 7970 8092 12101 12455 

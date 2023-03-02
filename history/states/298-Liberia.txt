@@ -21,7 +21,7 @@ state = {
 		}
 		add_core_of = LIB
 		add_core_of = MAS
-		controller = MAS
+		###controller = MAS
 	}
 	provinces = {
 		7959 8006

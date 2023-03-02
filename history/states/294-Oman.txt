@@ -21,7 +21,7 @@ state = {
 		}
 		add_core_of = OMA
 		add_core_of = ARB
-		controller = ARB
+		###controller = ARB
 	}
 	provinces = {
 		1947 2018 2059 2103 4993 5049 8002 8020 10760 

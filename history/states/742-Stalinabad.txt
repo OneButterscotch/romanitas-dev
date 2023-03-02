@@ -16,7 +16,7 @@ state={
 		add_core_of = TAJ
 		add_core_of = BUK
 		add_core_of = SAR
-		controller = SAR
+		###controller = SAR
 
 	}
 

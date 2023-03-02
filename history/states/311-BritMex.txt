@@ -16,7 +16,7 @@ state = {
 				naval_base = 1
 			}
 		}
-		controller = MAI
+		###controller = MAI
 	}
 	provinces = { 2077 }
 	local_supplies = 0.0

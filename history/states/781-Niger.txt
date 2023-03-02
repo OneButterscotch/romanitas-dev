@@ -13,7 +13,7 @@ state = {
 		buildings = {
 			infrastructure = 2
 		}
-		controller = MAS
+		###controller = MAS
 	}
 	provinces = {
 		1975 2056 12707

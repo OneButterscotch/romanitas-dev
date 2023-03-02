@@ -16,7 +16,7 @@ state = {
 		victory_points = {
 			12885 1 
 		}
-		controller = ARA
+		###controller = ARA
 	}
 	provinces = {
 		4934 12885 

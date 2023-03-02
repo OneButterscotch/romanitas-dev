@@ -19,7 +19,7 @@ state = {
 				naval_base = 2
 			}
 		}
-		controller = ETI
+		###controller = ETI
 	}
 	provinces = {
 		4985 8124

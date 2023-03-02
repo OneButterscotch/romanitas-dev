@@ -16,7 +16,7 @@ state = {
 		victory_points = {
 			2152 5 
 		}
-		controller = TUP
+		###controller = TUP
 	}
 	provinces = {
 		2152 2173 2194 11023 12901 

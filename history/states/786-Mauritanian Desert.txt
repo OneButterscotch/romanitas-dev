@@ -11,7 +11,7 @@ state = {
 		buildings = {
 			infrastructure = 0
 		}
-		controller = MAU
+		###controller = MAU
 	}
 	provinces = {
 		1897 1962 7943 8035 10771 10779 10838

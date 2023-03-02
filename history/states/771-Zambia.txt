@@ -17,7 +17,7 @@ state = {
 			infrastructure = 2
 
 		}
-		controller = AFD
+		###controller = AFD
 	}
 	provinces = {
 		697 1846 5199 5221 7872 10538 10594 10930 12504 12677 13173

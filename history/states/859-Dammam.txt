@@ -18,7 +18,7 @@ state = {
 
 			}
 		}
-		controller = ARB
+		###controller = ARB
 	}
 	manpower = 440000
 	state_category = rural

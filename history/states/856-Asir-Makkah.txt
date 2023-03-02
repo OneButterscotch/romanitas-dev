@@ -18,7 +18,7 @@ state = {
 		victory_points = {
 			12883 1 
 		}
-		controller = ARB
+		###controller = ARB
 	}
 	manpower = 500000
 	state_category = pastoral

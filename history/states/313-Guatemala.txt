@@ -25,7 +25,7 @@ state = {
 		victory_points = {
 			10886 3 
 		}
-		controller = MAI
+		###controller = MAI
 	}
 	provinces = {
 		4991 10842 10886 13085 

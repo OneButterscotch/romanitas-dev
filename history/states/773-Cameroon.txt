@@ -18,7 +18,7 @@ state = {
 				naval_base = 1
 			}
 		}
-		controller = GAE
+		###controller = GAE
 	}
 	provinces = {
 		2080 5036 5054 6039 7963 9137 11194 
