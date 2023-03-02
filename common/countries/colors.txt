@@ -118,8 +118,8 @@ AFG = {
 	color_ui = rgb { 83 208 217 }
 }
 ARG = {
-	color = rgb { 145 157 236 }
-	color_ui = rgb { 189 204 255 }
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
 }
 AST = {
 	color = rgb { 230 230 230 }
@@ -134,8 +134,8 @@ BOL = {
 	color_ui = rgb { 255 234 177 }
 }
 BRA = {
-	color = rgb { 76 145 63 }
-	color_ui = rgb { 99 189 82 }
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
 }
 CAN = {
 	color = rgb { 233  59  59 }
@@ -299,8 +299,8 @@ SLO = {
 	color_ui = rgb { 255 255 255 }
 }
 RAJ = {
-	color = rgb { 226  135  40 }
-	color_ui = rgb { 226  135  40 }
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
 }
 
 CRO = {
@@ -309,8 +309,8 @@ CRO = {
 }
 
 PRC = {
-	color = rgb { 245 12 55 }
-	color_ui = rgb { 178 34 60 }
+	color = rgb { 237 152 18 }
+	color_ui = rgb { 224 139 5 }
 }
 
 GXC = {
@@ -364,8 +364,8 @@ SER = {
 }
 
 ICE = {
-	color = rgb { 100  125  175 }
-	color_ui = rgb { 100  125  175 }
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
 }
 
 UKR = {
@@ -1286,4 +1286,16 @@ EST = {
 LAT = {
 	color = rgb { 153 0 0 }
 	color_ui = rgb { 153 0 0 }
+}
+TAT = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+KAZ = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+KSH = {
+	color = rgb { 237 152 18 }
+	color_ui = rgb { 224 139 5 }
 }
