@@ -19,7 +19,7 @@ state = {
 				naval_base = 1
 			}
 		}
-		controller = ICC
+		###controller = ICC
 	}
 	provinces = { 3284 13012 }
 	local_supplies = 2.0

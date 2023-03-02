@@ -25,7 +25,7 @@ state={
 		victory_points = {
 			10412 15 
 		}
-		controller = CAL
+		###controller = CAL
 
 	}
 

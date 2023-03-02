@@ -13,7 +13,7 @@ state = {
 			infrastructure = 2
 
 		}
-		controller = NUB
+		###controller = NUB
 	}
 	provinces = {
 		2016 4033 8052 8084 10739 10795 10827 10851 12744 

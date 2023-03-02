@@ -20,7 +20,7 @@ state = {
 				naval_base = 1
 			}
 		}
-		controller = ICC
+		###controller = ICC
 	}
 	provinces = {
 		177 9377 13084 

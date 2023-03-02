@@ -20,7 +20,7 @@ state = {
 				naval_base = 2
 			}		
 		}
-		controller = RME
+		###controller = RME
 	}
 	provinces = {
 		764 778 3764 3959 6609 6975 9603 9736 9745 9909 11573 

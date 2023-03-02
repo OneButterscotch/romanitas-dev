@@ -13,7 +13,7 @@ state = {
 		}
 		add_core_of = DEN
 		add_core_of = RME
-		controller = RME
+		###controller = RME
 	}
 	provinces = { 13003 }
 	local_supplies = 0.0

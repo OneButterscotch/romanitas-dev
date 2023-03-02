@@ -16,7 +16,7 @@ state = {
 		}
 		add_core_of = USA
 		add_core_of = ALQ
-		controller = ALQ
+		###controller = ALQ
 	}
 	provinces = {
 		3693 3863 6882 9801 9864 11740 11782 11900 

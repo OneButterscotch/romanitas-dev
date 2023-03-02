@@ -26,7 +26,7 @@ state = {
 		}
 		add_core_of = GRE
 		add_core_of = RME
-		controller = RME
+		###controller = RME
 	}
 	provinces = {
 		3401 6550 8435 

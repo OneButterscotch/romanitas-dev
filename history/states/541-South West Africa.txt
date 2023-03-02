@@ -15,7 +15,7 @@ state = {
 		add_core_of = SAF
 		add_core_of = NMB
 		add_core_of = AFD
-		controller = AFD
+		###controller = AFD
 	}
 	provinces = {
 		2207 4879 7770 

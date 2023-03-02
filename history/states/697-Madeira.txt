@@ -16,7 +16,7 @@ state = {
 		}
 		add_core_of = POR
 		add_core_of = RME
-		controller = RME
+		###controller = RME
 	}
 	provinces = {
 		3118 

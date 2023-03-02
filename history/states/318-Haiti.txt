@@ -22,7 +22,7 @@ state = {
 		victory_points = {
 			4641 5 
 		}
-		controller = ICC
+		###controller = ICC
 	}
 	provinces = {
 		1594 1635 4641

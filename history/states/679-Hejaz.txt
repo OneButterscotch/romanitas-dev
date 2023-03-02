@@ -13,7 +13,7 @@ state = {
 		}
 		add_core_of = SAU
 		add_core_of = ARB
-		controller = ARB
+		###controller = ARB
 	}
 	provinces = {
 		2033 4981 5099 7934 10748 10835 12758 

@@ -17,7 +17,7 @@ state = {
 		}
 		add_core_of = PAN
 		add_core_of = MAI
-		controller = MAI
+		###controller = MAI
 	}
 	provinces = { 7617 }
 	local_supplies = 0.0

@@ -14,7 +14,7 @@ state = {
 		}
 		add_core_of = COG
 		add_core_of = AFD
-		controller = AFD
+		###controller = AFD
 	}
 	provinces = {
 		988 7219 7931 8048 10071 10883 10951 12741 12824 
