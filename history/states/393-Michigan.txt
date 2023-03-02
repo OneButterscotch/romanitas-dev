@@ -21,7 +21,7 @@ state={
 		victory_points = {
 			6710 20 
 		}
-		controller = LAC
+		###controller = LAC
 
 	}
 

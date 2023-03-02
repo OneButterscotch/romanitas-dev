@@ -17,7 +17,7 @@ state = {
 		victory_points = {
 			12501 3 
 		}
-		controller = CAL
+		###controller = CAL
 	}
 	provinces = {
 		913 1758 1987 7615 7791 7797 8014 8083 10281 10615 10657 10824 10909 12501 12670 

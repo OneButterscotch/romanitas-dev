@@ -17,7 +17,7 @@ state = {
 		victory_points = {
 			6278 1 
 		}
-		controller = ALN
+		###controller = ALN
 	}
 	provinces = {
 		305 370 381 3294 3300 4356 4400 6217 6278 6388 7359 7403 9293 11320 12203 12244 
