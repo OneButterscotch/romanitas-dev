@@ -27,12 +27,12 @@ state={
 
 		}
 		add_core_of = CAL
-                add_core_of = ALQ
+		add_core_of = ALQ
 
 	}
 
 	provinces={
-		3957 6823 6929 6984 11892 
+		3917 3957 6892 6929 6984 9758 9786 11892 
 	}
 	manpower=2118394
 	buildings_max_level_factor=1.000

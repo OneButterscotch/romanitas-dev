@@ -32,7 +32,7 @@ state = {
 			}
 
 		}
-		controller = SIN
+		###controller = SIN
 	}
 	provinces = {
 		517 1458 4939 5007 7208 7314 7659 8049 10733 10880 12156 12356 

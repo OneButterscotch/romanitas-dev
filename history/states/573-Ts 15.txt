@@ -17,7 +17,7 @@ state = {
 		}
 		add_core_of = SOV
 		add_core_of = ALN
-		controller = ALN
+		###controller = ALN
 	}
 	provinces = {
 		237 278 361 3280 4758 7320 10136 10329 11223 11307 

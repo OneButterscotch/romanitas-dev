@@ -14,7 +14,7 @@ state = {
 			infrastructure = 2
 
 		}
-		controller = MAS
+		###controller = MAS
 	}
 	provinces = {
 		4927 5045 8116 12794 

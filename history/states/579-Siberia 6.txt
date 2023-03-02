@@ -14,7 +14,7 @@ state = {
 		add_core_of = SOV
 		add_core_of = YAM
 		add_core_of = SCY
-		controller = SCY
+		###controller = SCY
 	}
 	provinces = {
 		1664 1684 3169 4669 7689 7738 8461 9142 13076

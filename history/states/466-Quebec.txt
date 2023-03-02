@@ -16,7 +16,7 @@ state = {
 		}
 		add_core_of = CAN
 		add_core_of = ABE
-		controller = ABE
+		###controller = ABE
 	}
 	provinces = {
 		490 1712 3208 3691 6740 7364 7813 10176 12147 13162 13166 13181 13184 13186 13196 

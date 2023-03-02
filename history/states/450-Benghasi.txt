@@ -1,13 +1,13 @@
-state = {
-	id = 450
-	name = "STATE_450"
-	manpower = 82535
-	state_category = wasteland
-	history = {
+
+state={
+	id=450
+	name="STATE_450"
+
+	history={
 		owner = CYR
 		add_core_of = CYR
-                add_core_of = TRI
-                add_core_of = RME
+		add_core_of = TRI
+		add_core_of = RME
 		victory_points = {
 			11954 3 
 		}
@@ -16,12 +16,18 @@ state = {
 			air_base = 1
 			11954 = {
 				naval_base = 1
-			}
-		}
-	}
-	provinces = {
-		1127 4120 10123 11954 
-	}
-	local_supplies = 0.0
 
+			}
+
+		}
+
+	}
+
+	provinces={
+		1127 1198 4120 10123 11954 
+	}
+	manpower=82535
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
 }

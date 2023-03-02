@@ -27,7 +27,7 @@ state={
 		victory_points = {
 			12149 3 
 		}
-		controller = ABE
+		###controller = ABE
 
 	}
 

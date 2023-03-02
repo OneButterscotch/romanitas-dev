@@ -6,7 +6,7 @@ state = {
 		chromium = 6
 	}
 	history = {
-		owner = SAR
+		owner = KAZ
 		add_core_of = KAZ
 		add_core_of = SOV
 		add_core_of = SAR
@@ -17,7 +17,6 @@ state = {
 		victory_points = {
 			7708 1
 		}
-		controller = SAR
 	}
 	provinces = {
 		1879 4670 4685 7317 7708 10202 10235 10630 12616

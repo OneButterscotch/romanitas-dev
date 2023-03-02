@@ -15,7 +15,7 @@ state = {
 		victory_points = {
 			4504 3 
 		}
-		controller = SIN
+		###controller = SIN
 	}
 	provinces = {
 		1474 1884 4192 4504 4532 5072 7521 7549 7577 8095 10616 10819 12841 

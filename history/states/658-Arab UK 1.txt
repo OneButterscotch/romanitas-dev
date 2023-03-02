@@ -19,7 +19,7 @@ state = {
 				naval_base = 3
 			}
 		}
-		controller = ARB
+		###controller = ARB
 	}
 	provinces = {
 		2048 7960 8108 10904 

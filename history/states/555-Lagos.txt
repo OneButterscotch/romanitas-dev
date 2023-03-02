@@ -14,7 +14,7 @@ state = {
 
 		}
 		add_core_of = NIO
-		controller = NIO
+		###controller = NIO
 	}
 	provinces = {
 		1399 1515 13037 

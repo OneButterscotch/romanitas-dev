@@ -6,8 +6,8 @@ state={
 	
 	history=
 	{
-		owner = PRU
-                add_core_of = PRU
+		owner = ARG
+                add_core_of = ARG
 		buildings = {
 			infrastructure = 1
 			10995 = {

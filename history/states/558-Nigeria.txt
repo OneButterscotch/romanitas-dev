@@ -21,7 +21,7 @@ state = {
 		victory_points = {
 			2050 1 
 		}
-		controller = GAE
+		###controller = GAE
 	}
 	provinces = {
 		2050 4952 12731 12817 12900 

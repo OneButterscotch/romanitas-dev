@@ -4,7 +4,7 @@ state={
 	name="STATE_805"
 
 	history={
-		owner = GRA
+		owner = EPY
 		add_core_of = EPY
 		add_core_of = GRA
 		add_core_of = MAC
@@ -20,7 +20,7 @@ state={
 	}
 
 	provinces={
-		914 
+		914 11767
 	}
 	manpower=262200
 	buildings_max_level_factor=1.000
