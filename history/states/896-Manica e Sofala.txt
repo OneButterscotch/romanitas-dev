@@ -11,7 +11,7 @@ state = {
 		}
 		add_core_of = MZB
 		add_core_of = AFD
-		controller = AFD
+		###controller = AFD
 	}
 	provinces = {
 		2120 5155 12935 12950 

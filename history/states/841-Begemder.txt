@@ -25,7 +25,7 @@ state = {
 		add_core_of = ETH
 		add_core_of = QEM
 		add_core_of = ETI
-		controller = ETI
+		###controller = ETI
 	}
 	provinces = {
  		1984 2040 13137 13241

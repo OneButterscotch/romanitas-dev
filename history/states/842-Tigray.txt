@@ -36,7 +36,7 @@ state = {
 		add_core_of = TIG
 		add_core_of = ETI
 		add_claim_by = ERI
-		controller = ETI
+		###controller = ETI
 	}
 	provinces = {
 		2072 13237 13238 

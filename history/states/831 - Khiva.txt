@@ -15,7 +15,7 @@ state = {
 		add_core_of = KKP
 		add_core_of = KHI
 		add_core_of = SAR
-		controller = SAR
+		###controller = SAR
 	}
 	provinces = {
 		 10395 10435 12324 12454 12465

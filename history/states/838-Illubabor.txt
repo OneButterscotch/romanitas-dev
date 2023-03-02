@@ -29,7 +29,7 @@ state = {
 		add_core_of = ETH
 		add_core_of = GBA
 		add_core_of = ETI
-		controller = ETI
+		###controller = ETI
 	}
 	provinces = {
  		7912 13244 13245

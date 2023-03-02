@@ -14,7 +14,7 @@ state = {
 		}
 		add_core_of = ANG
 		add_core_of = AFD
-		controller = AFD
+		###controller = AFD
 	}
 	provinces = {
 		2115 

@@ -10,7 +10,7 @@ state = {
 		buildings = {
 			infrastructure = 1
 		}
-		controller = GAE
+		###controller = GAE
 	}
 	provinces = {
 		4997 5028 8109 10820 

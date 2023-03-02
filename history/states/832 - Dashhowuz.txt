@@ -15,7 +15,7 @@ state = {
 		add_core_of = TMS
 		add_core_of = KHI
 		add_core_of = SAR
-		controller = SAR
+		###controller = SAR
 	}
 	provinces = {
 		1493 1649 7618 10485

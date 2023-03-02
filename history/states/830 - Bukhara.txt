@@ -18,7 +18,7 @@ state = {
 		add_core_of = UZB
 		add_core_of = BUK
 		add_core_of = SAR
-		controller = SAR
+		###controller = SAR
 	}
 	provinces = {
 		1573 1623 7639 7775 10205 10470 10671 12161 12239 12722
