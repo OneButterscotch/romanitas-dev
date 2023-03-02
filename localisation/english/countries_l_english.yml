@@ -1,15 +1,15 @@
 ﻿l_english:
- ITA_fascism:0 "Empire of the Romans"
- ITA_fascism_DEF:0 "the Empire of the Romans"
- ITA_democratic:0 "Roman Republic"
- ITA_democratic_DEF:0 "Roman Republic"
- ITA_neutrality:0 "Roman Empire"
- ITA_neutrality_DEF:0 "the Roman Empire"
- ITA_communism:0 "Roman Empire"
- ITA_communism_DEF:0 "the Roman Empire"
- ITA:0 "Rome"
- ITA_DEF:0 "the Roman Empire"
- ITA_ADJ:0 "Roman"
+ RME_fascism:0 "Empire of the Romans"
+ RME_fascism_DEF:0 "the Empire of the Romans"
+ RME_democratic:0 "Roman Republic"
+ RME_democratic_DEF:0 "Roman Republic"
+ RME_neutrality:0 "Roman Empire"
+ RME_neutrality_DEF:0 "the Roman Empire"
+ RME_communism:0 "Roman Empire"
+ RME_communism_DEF:0 "the Roman Empire"
+ RME:0 "Rome"
+ RME_DEF:0 "the Roman Empire"
+ RME_ADJ:0 "Roman"
  
  CHI_fascism:0 "Great Sinoan Empire"
  CHI_fascism_DEF:0 "Great Sinoan Empire"
@@ -103,17 +103,25 @@
  AFG_DEF:0 "Bactria"
  AFG_ADJ:0 "Bactrian"
  
- ARG:0 "Argentina"
- ARG_DEF:0 "Argentina"
- ARG_ADJ:0 "Argentinean"
+ ARG:0 "Patagonia"
+ ARG_DEF:0 "Patagonia"
+ ARG_ADJ:0 "Patagonia"
  
- BRA:0 "Brazilia"
- BRA_DEF:0 "Brazilia"
- BRA_ADJ:0 "Brazilian"
+ BRA:0 "Brasilia"
+ BRA_DEF:0 "Brasilia"
+ BRA_ADJ:0 "Brasilii"
  
- PRC:0 "Chengdu Fu"
- PRC_DEF:0 "Chengdu"
- PRC_ADJ:0 "South Chinese"
+ ICE:0 "Thulia"
+ ICE_DEF:0 "Thulia"
+ ICE_ADJ:0 "Thulia"
+ 
+ ETI:0 "Aethiopia"
+ ETI_DEF:0 "Aethiopia"
+ ETI_ADJ:0 "Aethiopia"
+ 
+ PRC:0 "Kham"
+ PRC_DEF:0 "Kham"
+ PRC_ADJ:0 "Khami"
  
  COL:0 "Arkansa"
  COL_DEF:0 "Arkansa"
@@ -127,17 +135,17 @@
  MEX_DEF:0 "Mexica"
  MEX_ADJ:0 "Mexican"
  
- MON:0 "Mongolia"
- MON_DEF:0 "Mongolia"
- MON_ADJ:0 "Mongolian"
+ MON:0 "Mobei Menggu"
+ MON_DEF:0 "Mobei Menggu"
+ MON_ADJ:0 "Mobei"
  
  PER:0 "Persia"
  PER_DEF:0 "Persia"
  PER_ADJ:0 "Persian"
  
- PHI:0 "Philippines"
- PHI_DEF:0 "the Philippines"
- PHI_ADJ:0 "Philippines"
+ PHI:0 "Kemmu Tosho"
+ PHI_DEF:0 "Kemmu Tosho"
+ PHI_ADJ:0 "Kemuiku"
  
  PRU:0 "Magna Araucania"
  PRU_DEF:0 "Araucania"
@@ -147,17 +155,17 @@
  SAU_ADJ:1 "Arabian"
  SAU_DEF:1 "Arabia"
  
- SIA:0 "Siam"
- SIA_DEF:0 "Siam"
+ SIA:0 "Saiyam"
+ SIA_DEF:0 "Saiyam"
  SIA_ADJ:0 "Siamese"
  
- SIK:0 "Sinkiang"
- SIK_DEF:0 "Sinkiang"
- SIK_ADJ:0 "Sinkiang"
+ SIK:0 "Kashgaria"
+ SIK_DEF:0 "Kashgaria"
+ SIK_ADJ:0 "Kashgaria"
  
- TAN:0 "Tannu Tuva"
- TAN_DEF:0 "Tannu Tuva"
- TAN_ADJ:0 "Tuvan"
+ TAN:0 "Oirat Menggu"
+ TAN_DEF:0 "Oirat"
+ TAN_ADJ:0 "Oirati"
  
  TIB:0 "Tibet"
  TIB_DEF:0 "Tibet"
@@ -171,13 +179,13 @@
  YUN_DEF:0 "Yunnan"
  YUN_ADJ:0 "Yunnanese"
  
- AST:0 "Australia"
- AST_DEF:0 "Australia"
- AST_ADJ:0 "Australian"
+ AST:0 "Gonshu Tochi"
+ AST_DEF:0 "Gonshu Tochi"
+ AST_ADJ:0 "Gonshu"
  
- NZL:0 "New Zealand"
- NZL_DEF:0 "New Zealand"
- NZL_ADJ:0 "New Zealand"
+ NZL:0 "Minamiedo"
+ NZL_DEF:0 "Minamiedo"
+ NZL_ADJ:0 "Minamiedo"
  
  URG:0 "Guaranyia"
  URG_DEF:0 "Guaranyia"
@@ -199,21 +207,25 @@
  RAJ_DEF:0 "India"
  RAJ_ADJ:0 "Indian"
  
- GXC:0 "Guangxi"
- GXC_DEF:0 "Guangxi"
- GXC_ADJ:0 "Guangxi"
+ GXC:0 "Koseikoku"
+ GXC_DEF:0 "Koseikoku"
+ GXC_ADJ:0 "Kosei"
  
  SHX:0 "Shanxi"
  SHX_DEF:0 "Shanxi"
  SHX_ADJ:0 "Shanxi"
  
- XSM:0 "Xibei San Ma"
- XSM_DEF:0 "Xibei San Ma"
- XSM_ADJ:0 "Ma"
+ XSM:0 "Qinghai"
+ XSM_DEF:0 "Qinghai"
+ XSM_ADJ:0 "Qinghai"
  
- MEN:0 "Mengkukuo"
- MEN_DEF:0 "Mengkukuo"
+ MEN:0 "Mengjiang"
+ MEN_DEF:0 "Mengjiang"
  MEN_ADJ:0 "Mengjiang"
+ 
+ KSH:0 "Ladakh"
+ KSH_DEF:0 "Ladakh"
+ KSH_ADJ:0 "Ladakhi"
  
  KOR:0 "Korea"
  KOR_DEF:0 "Korea"
@@ -239,12 +251,12 @@
  CAM_DEF:0 "Cambodia"
  CAM_ADJ:0 "Cambodian"
  
- INS:0 "Indonesia"
- INS_DEF:0 "Indonesia"
- INS_ADJ:0 "Indonesian"
+ INS:0 "Nusantara"
+ INS_DEF:0 "Nusantara"
+ INS_ADJ:0 "Nusantari"
  
- MAL:0 "Malaysia"
- MAL_DEF:0 "Malaysia"
+ MAL:0 "Malayokoku"
+ MAL_DEF:0 "Malayokoku"
  MAL_ADJ:0 "Malaysian"
  
  LAO:0 "Laos"
@@ -263,21 +275,33 @@
  ARM_DEF:0 "Armenia"
  ARM_ADJ:0 "Armenian"
  
- MAN:0 "Manchukuo"
- MAN_DEF:0 "Manchukuo"
+ MAN:0 "Manchoukuo"
+ MAN_DEF:0 "Manchoukuo"
  MAN_ADJ:0 "Manchu"
  
- BAN:0 "Bangladesh"
- BAN_DEF:0 "Bangladesh"
- BAN_ADJ:0 "Bangladeshi"
+ BAN:0 "Assam"
+ BAN_DEF:0 "Assam"
+ BAN_ADJ:0 "Assam"
  
- BRM:0 "Burma"
- BRM_DEF:0 "Burma"
- BRM_ADJ:0 "Burmese"
+ BRM:0 "Shan Myanmar"
+ BRM_DEF:0 "Myanmar"
+ BRM_ADJ:0 "Shan"
  
- PNG:0 "Papua"
- PNG_DEF:0 "Papua"
- PNG_ADJ:0 "Papuan"
+ NEP:0 "Nepal"
+ NEP_DEF:0 "Nepal"
+ NEP_ADJ:0 "Nepali"
+ 
+ RYU:0 "Okinawa"
+ RYU_DEF:0 "Okinawa"
+ RYU_ADJ:0 "Okinawan"
+ 
+ FOR:0 "Taiwan"
+ FOR_DEF:0 "Taiwan"
+ FOR_ADJ:0 "Taiwani"
+ 
+ PNG:0 "Suwanapomou"
+ PNG_DEF:0 "Suwanapomou"
+ PNG_ADJ:0 "Suwanari"
  
  SCO:0 "Caledonia"
  SCO_DEF:0 "Caledonia"
@@ -335,21 +359,25 @@
  TAT_DEF:0 "Tartaria"
  TAT_ADJ:0 "Tartar"
  
- BYA_ADJ:0 "Yuan-Mongol"
- BYA:0 "Great Buryat-Mongol Yuan Successor State"
- BYA_DEF:0 "the Great Buryat-Mongol Yuan Successor State"
+ BYA_ADJ:0 "Yuan Mengguwo"
+ BYA:0 "Yuan Mengguo"
+ BYA_DEF:0 "the Yuan"
  
- FER:0 "Far Eastern Republic"
- FER_DEF:0 "the Far Eastern Republic"
- FER_ADJ:0 "Far Eastern"
+ FER:0 "Transamur"
+ FER_DEF:0 "Transamur"
+ FER_ADJ:0 "Amuri"
+ 
+ IDC:0 "Tenjichugoku"
+ IDC_DEF:0 "Tenjichugoku"
+ IDC_ADJ:0 "Tenjichu"
  
  YAK_ADJ:0 "Yakut"
- YAK:0 "Sakha Republic"
- YAK_DEF:0 "the Sakha Republic"
+ YAK:0 "Hongbaoshi"
+ YAK_DEF:0 "Hongbaoshi"
  
- TAY:0 "Taymyria"
- TAY_DEF:0 "Taymyria"
- TAY_ADJ:0 "Taymyr"
+ TAY:0 "Taimoliya"
+ TAY_DEF:0 "Taimoliya"
+ TAY_ADJ:0 "Taimu"
 
  ENG:0 "Britannia"
  ENG_DEF:0 "Britannia"
@@ -379,9 +407,13 @@
  OCC_DEF:0 "Algonquiana"
  OCC_ADJ:0 "Algon"
  
- KAZ:0 "Kazacia"
- KAZ_DEF:0 "Algonquiana"
- KAZ_ADJ:0 "Algon"
+ KAZ:0 "Cazacia"
+ KAZ_DEF:0 "Cazacia"
+ KAZ_ADJ:0 "Cazakii"
+ 
+ KHA:0 "Caucasia"
+ KHA_DEF:0 "Caucasia"
+ KHA_ADJ:0 "Caucasia"
  
  BEL:0 "Gallia Belgica"
  BEL_DEF:0 "Algonquiana"
@@ -411,9 +443,9 @@
  HOL_DEF:0 "Algonquiana"
  HOL_ADJ:0 "Algon"
  
- DDR:0 "Aestia"
- DDR_DEF:0 "Algonquiana"
- DDR_ADJ:0 "Algon"
+ DNZ:0 "Aestia"
+ DNZ_DEF:0 "Aestia"
+ DNZ_ADJ:0 "Aestii"
  
  CZE:0 "Bohemia"
  CZE_DEF:0 "Algonquiana"
@@ -475,9 +507,9 @@
  HAN_DEF:0 "Algonquiana"
  HAN_ADJ:0 "Algon"
  
- ALB:0 "Epirus"
- ALB_DEF:0 "Algonquiana"
- ALB_ADJ:0 "Algon"
+ ALB:0 "Albania"
+ ALB_DEF:0 "Albania"
+ ALB_ADJ:0 "Albanian"
  
  AUS:0 "Norica"
  AUS_DEF:0 "Algonquiana"
