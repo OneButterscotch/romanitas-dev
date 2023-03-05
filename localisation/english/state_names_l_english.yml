@@ -912,6 +912,8 @@
  STATE_910: "Missi"
  STATE_911: "South Missouri"
  STATE_912: "Tip"
+ STATE_913: "Bay"
+ STATE_914: "Min Colorado"
  STATE_915: "Upper Danube"
  STATE_916: "Gansu Corridor"
  STATE_917: "Cyrenaican Desert"
