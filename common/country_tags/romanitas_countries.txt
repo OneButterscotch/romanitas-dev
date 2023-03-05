@@ -75,3 +75,4 @@ FOR = "countries/Asia.txt" #Formosa
 KUM = "countries/Asia.txt" #Kumul Khanate
 SIC = "countries/Asia.txt" #Sichuan
 RYU = "countries/Asia.txt" #Okinawa
+AFP = "countries/MidEast.txt" #Africa Proconsularis
