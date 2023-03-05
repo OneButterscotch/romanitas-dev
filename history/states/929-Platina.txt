@@ -1,0 +1,19 @@
+state={
+	id=929
+	name="STATE_929"
+        history={
+		owner = HRP
+		add_core_of = HRP
+		add_core_of = RME
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces={
+		2172 5163 7500 8208 10975 10985 13000 
+	}
+	manpower=38451
+        state_category=pastoral
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

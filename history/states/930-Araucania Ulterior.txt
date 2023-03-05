@@ -1,0 +1,19 @@
+state={
+	id=930
+	name="STATE_930"
+        history={
+		owner = HRP
+		add_core_of = HRP
+		add_core_of = RME
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces={
+		2149 2199 8192 10935 12306 12494 
+	}
+	manpower=1273
+        state_category=wasteland
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
