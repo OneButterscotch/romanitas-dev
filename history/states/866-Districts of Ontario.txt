@@ -6,12 +6,10 @@ state={
 	history={
 		owner = VEN
 		add_core_of = VEN
-		###controller = VEN
-
 	}
 
 	provinces={
-		761 763 1769 3736 4753 4875 7899 11571 13094 
+		761 763 3736 4753
 	}
 	manpower=10000
 	buildings_max_level_factor=1.000
