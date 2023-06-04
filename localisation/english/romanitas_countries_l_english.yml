@@ -47,3 +47,31 @@
  ASI: "Asia-Cappodacia"
  ASI_DEF: "Asia-Cappodacia"
  ASI_ADJ: "Asia-Cappodacian"
+ #Bactria
+ BAC: "Bactria"
+ BAC_DEF: "Bactria"
+ BAC_ADJ: "Bactrian"
+ #Baetica
+ HBA: "Baetica"
+ HBA_DEF: "Baetica"
+ HBA_ADJ: "Baetican"
+ #Batavia
+ BAT: "Batavia"
+ BAT_DEF: "Batavia"
+ BAT_ADJ: "Batavian"
+ #Belgica
+ BLG: "Belgica"
+ BLG_DEF: "Belgica"
+ BLG_ADJ: "Belgican"
+ #Bohemia
+ BOH: "Bohemia"
+ BOH_DEF: "Bohemia"
+ BOH_ADJ: "Bohemian"
+ #Britannia
+ BRT: "Britannia"
+ BRT_DEF: "Britannia"
+ BRT_ADJ: "Britannic"
+ #Byzantion
+ BYZ: "Byzantion"
+ BYZ_DEF: "Byzantion"
+ BYZ_ADJ: "Byzantion"
