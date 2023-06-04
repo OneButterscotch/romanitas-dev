@@ -115,3 +115,39 @@
  FOR: "Formosa"
  FOR_DEF: "Formosa"
  FOR_ADJ: "Formosan"
+ #Gaetulia
+ GAE: "Gaetulia"
+ GAE_DEF: "Gaetulia"
+ GAE_ADJ: "Gaetulian"
+ #Gallia
+ GAU: "Gallia"
+ GAU_DEF: "Gallia"
+ GAU_ADJ: "Gallic"
+ #Gallia Lugdunensis
+ LUG: "Gallia Lugdunensis"
+ LUG_DEF: "Gallia Lugdunensis"
+ LUG_ADJ: "Gallia Lugdunensic"
+ #Gallia Transalpina
+ GTR: "Gallia Transalpina"
+ GTR_DEF: "Gallia Transalpina"
+ GTR_ADJ: "Gallia Transalpinian"
+ #Garania
+ GAR: "Garania"
+ GAR_DEF: "Garania"
+ GAR_ADJ: "Garanian"
+ #Germania Inferior
+ GIN: "Germania Inferior"
+ GIN_DEF: "Germania Inferior"
+ GIN_ADJ: "Germania Inferior"
+ #Germania
+ GRM: "Germania"
+ GRM_DEF: "Germania"
+ GRM_ADJ: "Germanic"
+ #Gothia
+ GOT: "Gothia"
+ GOT_DEF: "Gothia"
+ GOT_ADJ: "Gothic"
+ #Graecia
+ GRA: "Graecia"
+ GRA_DEF: "Graecia"
+ GRA_ADJ: "Graecian"
